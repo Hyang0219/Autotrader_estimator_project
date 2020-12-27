@@ -11,13 +11,12 @@ import pandas as pd
 
 # Define the targeted make and model in a tuple list
 
-target_model = [("Audi","A1"),
+target_model = [#("Audi","A1"),
                 ("Audi","A3"),
                 ("BMW","1 SERIES"),
                 ("BMW","3 SERIES"),
                 ("Lexus","Ct 200h"),
                 ("Mazda","Mazda3"),
-                ("MINI","Hatch"),
                 ("Fiat","500")]
 
 # Function to generate all raw data from a list of tuples of the targeted make and model
@@ -28,8 +27,8 @@ def generate_car_price(target=target_model):
         results_price = get_cars(make = make,
                                  model = model,
                                  postcode = "CF23 8PG",
-                                 radius = 30,
-                                 min_year = 2019,
+                                 radius = 10,
+                                 min_year = 2015,
                                  max_year = 2020,
                                  include_writeoff = "include",
                                  max_attempts_per_page = 5,
@@ -42,4 +41,4 @@ def generate_car_price(target=target_model):
 results = generate_car_price(target_model)
 
 # Save scrapped data as csv
-pd.DataFrame(results).to_csv("autorader_prices.csv", index = False)
+pd.DataFrame(results).to_csv("autotrader_prices.csv", index = False)
