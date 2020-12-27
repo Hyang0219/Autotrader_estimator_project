@@ -1,627 +1,627 @@
-BHP,ULEZ,body,engine,fuel,mileage,owners,price,transmission,year,make,model,se,eco,sport,m_sport,lux,sat_nav,bluetooth,leather,three_door,year_reg
-108.0,ULEZ,Hatchback,1.6,Diesel,82850,2.0,7991,Manual,2015,Audi,A3,1,0,0,0,0,1,1,0,0,15 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,38627,2.0,10980,Manual,2015,Audi,A3,1,0,0,0,0,1,0,0,0,65 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,84812,2.0,8350,Manual,2015,Audi,A3,0,0,1,0,0,1,0,0,0,15 reg
-182.0,ULEZ,Hatchback,2.0,Diesel,74413,2.0,9699,Automatic,2015,Audi,A3,0,0,1,0,0,0,0,0,0,15 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,59152,2.0,8990,Manual,2015,Audi,A3,1,0,1,0,0,0,0,0,0,15 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,78876,2.0,8800,Manual,2015,Audi,A3,1,0,0,0,0,0,1,0,0,65 reg
-108.0,ULEZ,Saloon,1.6,Diesel,55591,2.0,12799,Manual,2015,Audi,A3,0,0,0,0,0,0,0,0,0,15 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,47606,2.0,9490,Manual,2015,Audi,A3,1,0,1,0,0,0,0,0,0,15 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,35439,2.0,14000,Manual,2015,Audi,A3,0,0,0,0,0,1,0,0,0,15 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,54831,2.0,11750,Manual,2015,Audi,A3,0,0,0,0,0,0,1,0,0,65 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,43908,2.0,10950,Manual,2015,Audi,A3,1,0,0,0,0,0,1,0,0,65 reg
-123.0,ULEZ,Hatchback,1.4,Petrol,29706,2.0,14450,Automatic,2015,Audi,A3,0,0,0,0,0,0,0,0,0,15 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,26900,2.0,14995,Manual,2015,Audi,A3,0,0,0,0,0,0,0,0,0,65 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,37119,2.0,10000,Manual,2015,Audi,A3,1,0,0,0,0,1,0,0,0,15 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,31700,2.0,13250,Automatic,2015,Audi,A3,1,0,1,0,0,0,0,0,0,65 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,29874,2.0,12250,Manual,2015,Audi,A3,1,0,0,0,0,1,0,0,0,65 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,87700,2.0,6990,Manual,2015,Audi,A3,1,0,1,0,0,0,0,0,0,15 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,71933,2.0,8795,Manual,2015,Audi,A3,1,0,1,0,0,0,0,0,0,15 reg
-124.0,ULEZ,Hatchback,1.4,Petrol,36841,2.0,11967,Manual,2016,Audi,A3,0,0,1,0,0,1,0,0,0,16 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,51903,2.0,14480,Manual,2016,Audi,A3,0,0,1,0,0,0,0,1,0,66 reg
-148.0,ULEZ,Saloon,1.6,Diesel,55300,3.0,12990,Automatic,2016,Audi,A3,0,0,1,0,0,0,0,0,0,16 reg
-187.0,ULEZ,Hatchback,2.0,Petrol,21629,2.0,17491,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Saloon,1.4,Petrol,57000,2.0,9995,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,51300,2.0,9489,Manual,2016,Audi,A3,1,0,0,0,0,0,0,0,0,66 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,12710,2.0,15000,Manual,2016,Audi,A3,0,0,1,0,0,1,0,0,0,65 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,29723,2.0,14995,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,37908,2.0,15500,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,71874,2.0,9250,Manual,2016,Audi,A3,0,0,1,0,0,1,1,0,0,65 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,42220,2.0,15750,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,22924,2.0,16500,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
-148.0,ULEZ,Saloon,1.4,Petrol,27245,2.0,15650,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,18446,2.0,14800,Manual,2016,Audi,A3,0,0,0,0,0,1,1,0,0,16 reg
-108.0,ULEZ,Saloon,1.6,Diesel,52602,2.0,11844,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,16 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,27200,2.0,13850,Manual,2016,Audi,A3,0,0,1,0,0,1,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,26363,2.0,15000,Manual,2016,Audi,A3,0,0,0,0,0,0,1,0,0,66 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,35135,2.0,14750,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,25157,2.0,13925,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,16 reg
-148.0,ULEZ,Saloon,1.4,Petrol,32140,2.0,13200,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,35175,2.0,13075,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,26000,2.0,13500,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Saloon,1.6,Diesel,25150,2.0,16300,Manual,2016,Audi,A3,0,0,0,0,0,0,1,0,0,66 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,33789,2.0,15000,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
-148.0,ULEZ,Saloon,1.4,Petrol,27879,2.0,14850,Automatic,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,43576,2.0,13800,Automatic,2016,Audi,A3,0,0,1,0,0,1,0,0,0,66 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,22127,2.0,12450,Manual,2016,Audi,A3,1,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,28052,2.0,13350,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-108.0,ULEZ,Saloon,1.6,Diesel,23066,2.0,15950,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.0,Petrol,16942,2.0,13500,Manual,2016,Audi,A3,0,0,1,0,0,1,0,0,0,16 reg
-148.0,ULEZ,Saloon,1.4,Petrol,31173,2.0,15300,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
-108.0,ULEZ,Saloon,1.6,Diesel,32664,2.0,16900,Automatic,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,38814,2.0,18991,Automatic,2017,Audi,A3,1,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,32300,2.0,13990,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,2.0,Diesel,47206,2.0,12999,Manual,2017,Audi,A3,1,0,1,0,0,1,0,0,0,17 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,49299,2.0,14650,Manual,2017,Audi,A3,0,0,0,0,0,1,0,0,0,17 reg
-148.0,ULEZ,Saloon,1.4,Petrol,32095,2.0,15975,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,73228,2.0,13000,Automatic,2017,Audi,A3,1,0,1,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,32113,2.0,11699,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,45589,2.0,11725,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,28319,2.0,14634,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,20784,2.0,15025,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,20624,2.0,12175,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,1.4,Petrol,20632,2.0,14350,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,28170,2.0,14000,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,14651,2.0,17750,Manual,2017,Audi,A3,0,0,0,0,0,1,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,52395,2.0,16375,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,19000,2.0,19000,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
-201.0,ULEZ,Hatchback,1.4,Hybrid – Petrol/Electric Plug-in,27968,2.0,16750,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,34741,2.0,15475,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,21569,2.0,12600,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,31502,2.0,11925,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,27450,2.0,14500,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,20000,2.0,12990,Manual,2017,Audi,A3,1,0,1,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,27733,2.0,18275,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,1.6,Diesel,34250,2.0,17950,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,36705,2.0,17000,Automatic,2017,Audi,A3,0,0,0,0,0,1,0,0,0,17 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,25571,2.0,17525,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,1.4,Petrol,35401,2.0,17650,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,40200,2.0,12750,Manual,2017,Audi,A3,1,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,44944,2.0,15250,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.0,Petrol,16645,2.0,12799,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,35200,2.0,18000,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Saloon,2.0,Diesel,23782,2.0,17425,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,22300,2.0,19000,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
-201.0,ULEZ,Hatchback,1.4,Hybrid – Petrol/Electric Plug-in,26213,2.0,17500,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,1.4,Petrol,32976,2.0,15600,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-187.0,ULEZ,Hatchback,2.0,Petrol,47040,2.0,16150,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,2.0,Diesel,27840,2.0,15925,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,40023,2.0,13800,Automatic,2017,Audi,A3,1,0,0,0,0,1,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.0,Petrol,20438,2.0,13599,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,39527,2.0,15000,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,14700,2.0,19250,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
-187.0,ULEZ,Hatchback,2.0,Petrol,20720,2.0,20325,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,1.5,Petrol,21878,2.0,16625,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.0,Petrol,16289,2.0,12599,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,2.0,Diesel,34838,2.0,17025,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,1.4,Petrol,26668,2.0,16175,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,2.0,Diesel,23952,2.0,14599,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,1.4,Petrol,21756,2.0,16100,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,50000,2.0,13850,Manual,2017,Audi,A3,0,0,0,0,0,1,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,33510,2.0,16700,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,1.4,Petrol,18864,2.0,16300,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,36288,2.0,17250,Manual,2017,Audi,A3,0,0,0,0,0,0,1,0,0,17 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,22587,2.0,18225,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,13919,2.0,18375,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,33591,2.0,12350,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,30167,2.0,12175,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
-108.0,ULEZ,Hatchback,1.6,Diesel,22634,2.0,14350,Automatic,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,1.5,Petrol,22904,2.0,16400,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,16968,2.0,18325,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.4,Petrol,40651,2.0,13800,Manual,2017,Audi,A3,0,0,1,0,0,1,0,0,0,17 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,21112,2.0,16000,Automatic,2017,Audi,A3,0,0,1,0,0,1,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,13702,2.0,17900,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-108.0,ULEZ,Saloon,1.6,Diesel,31093,2.0,16425,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,2.0,Diesel,15828,2.0,19025,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,52750,2.0,14500,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,1.4,Petrol,13656,2.0,18425,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,1.4,Petrol,22453,2.0,17550,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,2.0,Diesel,50881,2.0,15675,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Saloon,2.0,Diesel,11620,2.0,18275,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,61500,2.0,15499,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,16897,2.0,17999,Automatic,2018,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,14500,2.0,17550,Manual,2018,Audi,A3,0,0,1,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,34500,2.0,18750,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,15129,2.0,16550,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
-201.0,ULEZ,Hatchback,1.4,Hybrid – Petrol/Electric Plug-in,53959,2.0,16225,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,15200,2.0,15000,Manual,2018,Audi,A3,1,0,1,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,4513,2.0,17500,Manual,2018,Audi,A3,0,0,1,0,0,1,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,15814,2.0,18450,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,9943,2.0,18550,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-187.0,ULEZ,Saloon,2.0,Petrol,26127,2.0,22275,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,15445,2.0,15425,Manual,2018,Audi,A3,0,0,1,0,0,0,0,0,0,68 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,12767,2.0,17625,Automatic,2018,Audi,A3,0,0,1,0,0,0,0,0,0,18 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,18452,2.0,17875,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
-148.0,ULEZ,Saloon,1.5,Petrol,8216,2.0,20025,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
-187.0,ULEZ,Saloon,2.0,Petrol,43099,2.0,18500,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,23508,2.0,19375,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.0,Petrol,18000,2.0,19500,Manual,2018,Audi,A3,0,0,1,0,0,0,0,0,0,68 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,11100,2.0,19350,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,15740,2.0,20225,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Saloon,2.0,Diesel,11383,2.0,19075,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,13703,2.0,19025,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,10029,2.0,20125,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,22115,2.0,17700,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,20759,2.0,17850,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Saloon,2.0,Diesel,36150,2.0,21000,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,27500,2.0,17850,Manual,2018,Audi,A3,0,0,1,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,5000,2.0,20495,Automatic,2019,Audi,A3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,11889,2.0,20250,Manual,2019,Audi,A3,0,0,0,0,0,0,1,0,0,68 reg
-114.0,ULEZ,Saloon,1.0,Petrol,18210,2.0,19525,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,24115,2.0,15699,Manual,2019,Audi,A3,1,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.0,Petrol,15293,2.0,18500,Manual,2019,Audi,A3,0,0,1,0,0,0,0,0,0,68 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,7957,2.0,21950,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,4500,2.0,18000,Manual,2019,Audi,A3,1,0,1,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,15384,2.0,19599,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,5000,2.0,17950,Automatic,2019,Audi,A3,1,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,13864,2.0,20850,Manual,2019,Audi,A3,0,0,1,0,0,0,0,0,0,68 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,5100,2.0,20000,Manual,2019,Audi,A3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,11638,2.0,22000,Automatic,2019,Audi,A3,0,0,1,0,0,0,0,0,0,69 reg
-114.0,ULEZ,Hatchback,1.0,Petrol,12435,2.0,16950,Automatic,2019,Audi,A3,1,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,11486,2.0,18000,Automatic,2019,Audi,A3,1,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,18606,2.0,19825,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,11713,2.0,19400,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,12237,2.0,20250,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Saloon,1.5,Petrol,24191,2.0,19450,Manual,2019,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,1500,2.0,25000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.0,Petrol,1903,2.0,25000,Manual,2020,Audi,A3,0,0,0,0,0,0,0,0,0,20 reg
-148.0,ULEZ,Saloon,2.0,Diesel,5000,2.0,25000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,1000,2.0,30500,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Saloon,1.5,Petrol,3500,2.0,28000,Manual,2020,Audi,A3,0,0,0,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,1500,2.0,21000,Manual,2020,Audi,A3,1,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,1500,2.0,24500,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,1500,2.0,24000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,4604,2.0,27000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,20 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,2500,2.0,25000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,8584,2.0,20575,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,1500,2.0,21000,Manual,2020,Audi,A3,1,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,1500,2.0,29000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,2500,2.0,24000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,4500,2.0,22000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,20 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,2500,2.0,24000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Saloon,1.5,Petrol,4750,2.0,28000,Automatic,2020,Audi,A3,0,0,0,0,0,0,0,0,0,20 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,3500,2.0,24000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.6,Diesel,2500,2.0,21000,Manual,2020,Audi,A3,1,0,1,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,59880,3.0,10480,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,15 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,29872,2.0,9490,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
-136.0,ULEZ,Hatchback,1.6,Petrol,56489,3.0,7890,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,64 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,48000,2.0,11990,Manual,2015,BMW,1,1,0,1,1,0,0,0,0,0,65 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,32979,2.0,9899,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,52000,2.0,11500,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,65 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,48000,2.0,12590,Manual,2015,BMW,1,1,0,1,1,0,0,0,0,0,65 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,40074,2.0,9299,Manual,2015,BMW,1,1,0,0,0,0,0,0,0,0,65 reg
-116.0,Non-ULEZ,Hatchback,2.0,Diesel,78844,2.0,7995,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,15 reg
-116.0,Non-ULEZ,Hatchback,2.0,Diesel,29135,2.0,10500,Manual,2015,BMW,1,1,0,1,0,0,0,1,0,0,15 reg
-141.0,Non-ULEZ,Hatchback,2.0,Diesel,64600,2.0,10999,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,15 reg
-134.0,ULEZ,Hatchback,1.6,Petrol,91000,2.0,8290,Manual,2015,BMW,1,1,0,1,0,0,1,0,0,0,15 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,73300,2.0,9290,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,37581,2.0,10475,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
-136.0,ULEZ,Hatchback,1.6,Petrol,23810,2.0,11000,Manual,2015,BMW,1,1,0,1,0,0,1,0,0,0,15 reg
-141.0,Non-ULEZ,Hatchback,2.0,Diesel,65343,2.0,11490,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,15 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,57443,2.0,11500,Manual,2015,BMW,1,1,0,1,1,0,0,0,1,0,65 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,30407,4.0,17990,Automatic,2015,BMW,1,1,0,0,0,0,0,0,0,0,65 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,38748,2.0,12500,Automatic,2015,BMW,1,1,0,1,0,0,1,0,0,0,65 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,23561,2.0,11000,Manual,2015,BMW,1,1,0,1,0,0,0,1,0,0,65 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,25385,2.0,13000,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,15 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,35000,2.0,10995,Manual,2015,BMW,1,1,0,0,0,0,0,0,0,0,65 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,10724,2.0,15400,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,65 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,43619,2.0,11991,Manual,2016,BMW,1,1,0,1,1,0,1,1,0,0,65 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,20514,2.0,15000,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,54000,2.0,9275,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,16 reg
-221.0,ULEZ,Hatchback,2.0,Diesel,68649,2.0,13499,Automatic,2016,BMW,1,1,0,1,1,0,0,0,0,0,16 reg
-134.0,ULEZ,Hatchback,1.5,Petrol,26133,2.0,12799,Manual,2016,BMW,1,1,0,1,1,0,0,1,0,0,66 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,35000,2.0,11990,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,43505,2.0,17299,Automatic,2016,BMW,1,1,0,0,0,0,0,0,0,0,16 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,86116,2.0,8000,Manual,2016,BMW,1,1,0,0,0,0,0,0,0,0,65 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,28999,2.0,11491,Manual,2016,BMW,1,1,0,0,0,0,0,0,0,0,16 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,39110,2.0,12500,Manual,2016,BMW,1,1,0,1,1,0,0,0,1,0,66 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,24683,2.0,11125,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,16 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,68190,2.0,11000,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
-306.0,ULEZ,Hatchback,3.0,Petrol,30564,2.0,18000,Automatic,2016,BMW,1,1,0,1,0,0,0,0,0,1,16 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,26467,2.0,12850,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,21603,2.0,12000,Manual,2016,BMW,1,1,0,1,0,0,1,0,0,0,66 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,22262,2.0,13900,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,16 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,47814,2.0,12650,Manual,2016,BMW,1,1,0,1,1,0,1,0,0,0,66 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,28578,2.0,14000,Automatic,2016,BMW,1,1,0,1,1,0,1,0,0,0,16 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,41664,2.0,10900,Manual,2016,BMW,1,1,0,0,0,0,1,0,0,0,66 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,20739,2.0,12425,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,52755,2.0,9599,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,16218,2.0,14750,Automatic,2016,BMW,1,1,0,1,1,0,1,0,0,0,16 reg
-224.0,ULEZ,Hatchback,2.0,Diesel,28480,2.0,17500,Automatic,2016,BMW,1,1,0,1,1,0,0,0,0,1,66 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,30596,2.0,10775,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,16 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,27668,2.0,11250,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,6666,2.0,14450,Automatic,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,48000,2.0,12991,Automatic,2016,BMW,1,1,0,1,0,0,0,0,0,0,16 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,27849,2.0,15500,Automatic,2016,BMW,1,1,0,1,1,0,0,0,1,0,16 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,16218,2.0,14750,Automatic,2016,BMW,1,1,0,1,1,0,1,0,0,0,16 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,17451,2.0,12075,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,43930,2.0,10700,Manual,2016,BMW,1,1,0,1,0,0,0,1,0,0,65 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,24164,2.0,11250,Manual,2016,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
-188.0,ULEZ,Hatchback,2.0,Diesel,34967,2.0,12499,Automatic,2016,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,36336,2.0,15425,Automatic,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,21314,2.0,14850,Automatic,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,46210,2.0,12400,Automatic,2016,BMW,1,1,0,1,0,0,1,0,0,0,16 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,33748,2.0,14500,Automatic,2016,BMW,1,1,0,1,1,0,1,0,0,0,66 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,33000,2.0,13491,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,30149,2.0,12750,Automatic,2016,BMW,1,1,0,1,0,0,1,0,0,0,16 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,30233,2.0,12990,Automatic,2016,BMW,1,1,0,0,0,0,0,0,0,0,16 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,59465,2.0,11750,Manual,2016,BMW,1,1,0,1,1,0,1,0,0,0,66 reg
-340.0,ULEZ,Hatchback,3.0,Petrol,24050,2.0,19350,Automatic,2016,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
-147.0,ULEZ,Hatchback,2.0,Diesel,21660,2.0,15980,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-335.0,ULEZ,Hatchback,3.0,Petrol,24584,2.0,21991,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,67 reg
-147.0,ULEZ,Hatchback,2.0,Diesel,21466,2.0,12480,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,41370,2.0,10991,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
-147.0,ULEZ,Hatchback,2.0,Diesel,28814,2.0,12980,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,12601,2.0,22991,Automatic,2017,BMW,1,1,0,0,0,0,1,0,0,0,67 reg
-147.0,ULEZ,Hatchback,2.0,Diesel,35265,2.0,13980,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,29967,2.0,21980,Automatic,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-134.0,ULEZ,Hatchback,1.5,Petrol,27689,2.0,14978,Automatic,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,7500,2.0,21250,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,26900,2.0,15790,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,35290,2.0,11992,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,57866,2.0,15990,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,29389,2.0,15000,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,13700,2.0,14990,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-147.0,ULEZ,Hatchback,2.0,Diesel,44836,2.0,11000,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
-147.0,ULEZ,Hatchback,2.0,Diesel,51506,2.0,10799,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,25008,2.0,16250,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-335.0,ULEZ,Hatchback,3.0,Petrol,55922,2.0,16999,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
-147.0,ULEZ,Hatchback,2.0,Diesel,37546,2.0,11599,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,41000,2.0,13990,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,32814,2.0,13000,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,49336,2.0,10550,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,25158,2.0,13000,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,32466,2.0,12500,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,27407,2.0,12000,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,24388,2.0,15000,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,55557,2.0,10075,Manual,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,59870,2.0,13000,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,67 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,26242,2.0,14025,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,38475,2.0,14750,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,12740,2.0,15450,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,25158,2.0,13000,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
-134.0,ULEZ,Hatchback,1.5,Petrol,13851,2.0,11499,Manual,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,19324,2.0,12475,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,37659,2.0,12000,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,26338,2.0,11725,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,44824,2.0,12100,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,67 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,55963,2.0,10000,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
-134.0,ULEZ,Hatchback,1.5,Petrol,17471,2.0,11499,Manual,2017,BMW,1,1,0,0,0,0,0,0,0,0,67 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,26273,2.0,13550,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,67 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,44675,2.0,11525,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,15000,2.0,20950,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,40085,2.0,10000,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,66 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,21500,2.0,12550,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,27023,2.0,12625,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,18390,2.0,12375,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,50211,2.0,10450,Manual,2017,BMW,1,1,0,0,0,0,0,0,0,0,67 reg
-340.0,ULEZ,Hatchback,3.0,Petrol,24900,2.0,21000,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,34215,2.0,11975,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,44288,2.0,12650,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,23144,2.0,14350,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,18533,2.0,12650,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,44106,2.0,12750,Automatic,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,9952,2.0,13750,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,23099,2.0,14500,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
-184.0,ULEZ,Hatchback,2.0,Petrol,26317,2.0,15350,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-224.0,ULEZ,Hatchback,2.0,Petrol,20922,2.0,17725,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,49914,2.0,11900,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,19612,2.0,14025,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,30833,2.0,11850,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,26087,2.0,12500,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,41217,2.0,11600,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,26341,2.0,12850,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,36277,2.0,14925,Automatic,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,23886,2.0,12600,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-340.0,ULEZ,Hatchback,3.0,Petrol,32077,2.0,19300,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,19192,2.0,12200,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,13652,2.0,17325,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-147.0,ULEZ,Hatchback,2.0,Diesel,16938,2.0,16999,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,10077,2.0,16500,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,26951,2.0,15325,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,22944,2.0,14050,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,11965,2.0,14775,Automatic,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,33673,2.0,12400,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-188.0,ULEZ,Hatchback,2.0,Diesel,28556,2.0,16499,Automatic,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,14438,2.0,15800,Automatic,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
-224.0,ULEZ,Hatchback,2.0,Diesel,25378,2.0,17125,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,32952,2.0,12000,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,30589,2.0,11725,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-340.0,ULEZ,Hatchback,3.0,Petrol,18961,2.0,20300,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,26044,2.0,12650,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,25077,2.0,12525,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,20192,2.0,12675,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,28182,2.0,13750,Automatic,2017,BMW,1,1,0,1,0,0,1,0,0,0,67 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,18336,2.0,13150,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,20081,2.0,17750,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-340.0,ULEZ,Hatchback,3.0,Petrol,27516,2.0,19750,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,36932,2.0,13025,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,18031,2.0,13125,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-340.0,ULEZ,Hatchback,3.0,Petrol,19784,2.0,20450,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-340.0,ULEZ,Hatchback,3.0,Petrol,31051,2.0,19325,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,28674,2.0,12450,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,20294,2.0,15500,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.5,Petrol,6421,2.0,14800,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,68 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,39217,2.0,12491,Manual,2018,BMW,1,1,0,0,0,0,0,0,0,0,67 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,16780,2.0,14750,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
-116.0,ULEZ,Hatchback,1.5,Diesel,15423,2.0,14000,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,1,18 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,44000,2.0,20450,Automatic,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
-150.0,ULEZ,Hatchback,2.0,Diesel,42805,2.0,14850,Manual,2018,BMW,1,1,0,1,1,0,1,0,1,0,18 reg
-134.0,ULEZ,Hatchback,1.5,Petrol,7522,2.0,13499,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,23907,2.0,17500,Manual,2018,BMW,1,1,0,1,1,0,0,0,0,0,68 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,7727,2.0,14075,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
-192.0,ULEZ,Hatchback,2.0,Petrol,14272,2.0,18800,Automatic,2018,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,11000,2.0,17500,Manual,2018,BMW,1,1,0,1,1,0,0,0,0,1,67 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,18180,2.0,14750,Manual,2018,BMW,1,1,0,1,0,0,1,0,0,0,68 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,15832,2.0,14350,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,68 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,19946,2.0,14950,Automatic,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
-114.0,ULEZ,Hatchback,1.5,Diesel,11572,2.0,14825,Automatic,2018,BMW,1,1,0,0,0,0,0,0,0,0,68 reg
-335.0,ULEZ,Hatchback,3.0,Petrol,16252,2.0,21825,Manual,2018,BMW,1,1,0,0,0,0,0,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.5,Diesel,15952,2.0,18000,Manual,2018,BMW,1,1,0,1,1,0,1,0,0,0,68 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,18842,2.0,14100,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,68 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,21539,2.0,15625,Automatic,2018,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,22224,2.0,15250,Manual,2018,BMW,1,1,0,1,0,0,1,0,0,0,18 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,16957,2.0,14150,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,68 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,15273,2.0,19700,Automatic,2018,BMW,1,1,0,1,1,0,0,0,0,0,68 reg
-335.0,ULEZ,Hatchback,3.0,Petrol,9703,2.0,23725,Automatic,2018,BMW,1,1,0,0,0,0,0,0,0,0,68 reg
-335.0,ULEZ,Hatchback,3.0,Petrol,23338,2.0,22050,Automatic,2018,BMW,1,1,0,0,0,0,0,0,0,0,18 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,9706,2.0,18500,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,0,69 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,12503,2.0,18500,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,0,69 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,9125,2.0,15325,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,0,19 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,4209,2.0,25000,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
-136.0,ULEZ,Hatchback,1.5,Diesel,6137,2.0,24000,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,6471,2.0,16000,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,1,19 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,11759,2.0,18950,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,19 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,12153,2.0,19500,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,7960,2.0,26250,Automatic,2019,BMW,1,1,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,7035,2.0,24750,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,7464,2.0,19175,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,19 reg
-190.0,ULEZ,Hatchback,2.0,Diesel,28922,2.0,19225,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,3.0,Petrol,10362,2.0,25000,Automatic,2019,BMW,1,1,0,0,0,0,0,0,0,0,19 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,7232,2.0,24000,Manual,2020,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Diesel,8065,2.0,25500,Automatic,2020,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
-136.0,ULEZ,Hatchback,1.5,Petrol,8583,2.0,22750,Manual,2020,BMW,1,1,0,1,1,0,0,0,0,0,20 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,10,2.0,36500,Automatic,2020,BMW,1,1,0,0,0,0,0,0,0,0,70 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,2212,2.0,31000,Automatic,2020,BMW,1,1,0,0,0,0,0,0,0,0,20 reg
-188.0,ULEZ,Saloon,2.0,Diesel,35248,2.0,13991,Automatic,2015,BMW,3,1,0,1,1,0,1,0,0,0,65 reg
-116.0,ULEZ,Saloon,2.0,Diesel,62000,2.0,9995,Manual,2015,BMW,3,1,0,0,0,0,0,0,0,0,15 reg
-150.0,ULEZ,Estate,2.0,Diesel,105173,2.0,8199,Manual,2015,BMW,3,1,0,0,0,0,1,0,0,0,65 reg
-252.0,ULEZ,Saloon,2.0,Petrol,37030,2.0,17000,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,65 reg
-163.0,Non-ULEZ,Saloon,2.0,Diesel,28420,2.0,11000,Manual,2015,BMW,3,1,0,0,0,0,0,0,1,0,15 reg
-184.0,Non-ULEZ,Saloon,2.0,Diesel,51434,2.0,13000,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,15 reg
-184.0,ULEZ,Saloon,2.0,Diesel,18582,2.0,16200,Automatic,2015,BMW,3,1,0,0,0,0,0,0,0,0,65 reg
-148.0,ULEZ,Saloon,2.0,Petrol,35000,2.0,11995,Manual,2015,BMW,3,1,0,1,0,0,0,0,0,0,65 reg
-313.0,ULEZ,Saloon,3.0,Petrol,41512,2.0,19500,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,15 reg
-184.0,ULEZ,Estate,2.0,Petrol,23395,2.0,13875,Manual,2015,BMW,3,1,0,1,0,0,0,0,0,0,65 reg
-258.0,ULEZ,Estate,3.0,Diesel,43470,2.0,16000,Automatic,2015,BMW,3,1,0,0,0,1,0,0,0,0,65 reg
-258.0,Non-ULEZ,Estate,3.0,Diesel,17295,2.0,18350,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,15 reg
-258.0,ULEZ,Saloon,3.0,Diesel,15720,2.0,17250,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,15 reg
-313.0,ULEZ,Estate,3.0,Diesel,32159,2.0,19925,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,65 reg
-313.0,ULEZ,Estate,3.0,Diesel,41154,2.0,19000,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,65 reg
-148.0,ULEZ,Saloon,2.0,Diesel,84312,2.0,12491,Automatic,2016,BMW,3,1,0,1,1,0,1,0,0,0,65 reg
-148.0,ULEZ,Saloon,3.0,Diesel,61400,2.0,18640,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-148.0,ULEZ,Estate,3.0,Diesel,78717,2.0,16995,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
-148.0,ULEZ,Estate,2.0,Diesel,56000,2.0,14600,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
-148.0,ULEZ,Estate,3.0,Diesel,42000,2.0,20991,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-148.0,ULEZ,Estate,2.0,Diesel,32700,2.0,18992,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,65 reg
-252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,36617,2.0,13725,Automatic,2016,BMW,3,1,0,1,0,0,0,0,0,0,16 reg
-148.0,ULEZ,Saloon,2.0,Diesel,37195,2.0,16992,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
-308.0,ULEZ,Saloon,3.0,Diesel,57983,2.0,17899,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-308.0,ULEZ,Saloon,3.0,Diesel,22400,2.0,19995,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
-148.0,ULEZ,Saloon,2.0,Diesel,112689,2.0,9750,Automatic,2016,BMW,3,1,0,0,0,0,0,0,0,0,16 reg
-163.0,ULEZ,Estate,2.0,Diesel,15891,2.0,13575,Manual,2016,BMW,3,1,0,0,0,0,0,0,0,0,16 reg
-252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,33964,2.0,17600,Automatic,2016,BMW,3,1,0,1,1,0,0,0,1,0,66 reg
-190.0,ULEZ,Saloon,2.0,Diesel,40250,2.0,13800,Manual,2016,BMW,3,1,0,1,1,0,0,0,1,0,16 reg
-190.0,ULEZ,Saloon,2.0,Diesel,35312,2.0,14000,Automatic,2016,BMW,3,1,0,1,0,0,1,0,0,0,16 reg
-313.0,ULEZ,Saloon,3.0,Diesel,23311,2.0,19850,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-150.0,ULEZ,Saloon,2.0,Diesel,83975,2.0,10600,Automatic,2016,BMW,3,1,0,0,0,0,1,0,0,0,16 reg
-190.0,ULEZ,Estate,2.0,Diesel,41141,2.0,17150,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
-190.0,ULEZ,Estate,2.0,Diesel,39235,2.0,17750,Automatic,2016,BMW,3,1,0,1,1,0,0,0,1,0,66 reg
-258.0,ULEZ,Saloon,3.0,Diesel,14898,2.0,16740,Automatic,2016,BMW,3,1,0,0,0,1,0,0,0,0,16 reg
-190.0,ULEZ,Saloon,2.0,Diesel,51817,2.0,14750,Manual,2016,BMW,3,1,0,1,1,0,1,0,0,0,16 reg
-190.0,ULEZ,Estate,2.0,Diesel,20795,2.0,19000,Automatic,2016,BMW,3,1,0,1,1,0,0,0,1,0,66 reg
-190.0,ULEZ,Estate,2.0,Diesel,39464,2.0,17875,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-313.0,ULEZ,Estate,3.0,Diesel,37797,2.0,20675,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-258.0,ULEZ,Estate,3.0,Diesel,45770,2.0,17425,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-190.0,ULEZ,Saloon,2.0,Diesel,28148,2.0,15295,Manual,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-188.0,ULEZ,Saloon,2.0,Diesel,79470,2.0,12499,Manual,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,2.0,Diesel,36176,2.0,14690,Manual,2017,BMW,3,1,0,1,1,0,1,0,0,0,67 reg
-190.0,ULEZ,Estate,2.0,Diesel,32977,2.0,19250,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-190.0,ULEZ,Saloon,2.0,Diesel,22843,2.0,19000,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-181.0,ULEZ,Saloon,2.0,Petrol,34274,2.0,12999,Manual,2017,BMW,3,1,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Saloon,2.0,Petrol,14463,2.0,14980,Automatic,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
-136.0,ULEZ,Estate,1.5,Petrol,37432,2.0,12990,Manual,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Estate,3.0,Diesel,26900,2.0,27492,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-190.0,ULEZ,Saloon,2.0,Diesel,39553,2.0,16125,Manual,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-116.0,ULEZ,Saloon,2.0,Diesel,20970,2.0,14500,Automatic,2017,BMW,3,1,0,0,0,0,0,0,1,0,67 reg
-181.0,ULEZ,Saloon,2.0,Petrol,34689,2.0,15000,Manual,2017,BMW,3,1,0,1,1,0,1,0,0,0,17 reg
-136.0,ULEZ,Saloon,1.5,Petrol,25684,2.0,12800,Manual,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
-163.0,ULEZ,Saloon,2.0,Diesel,25309,2.0,14575,Automatic,2017,BMW,3,1,0,0,0,0,0,0,0,0,17 reg
-190.0,ULEZ,Saloon,2.0,Diesel,12808,2.0,14175,Manual,2017,BMW,3,1,0,0,0,0,0,0,0,0,67 reg
-190.0,ULEZ,Saloon,2.0,Diesel,32286,2.0,18000,Automatic,2017,BMW,3,1,0,1,1,0,0,0,1,0,17 reg
-192.0,ULEZ,Saloon,2.0,Petrol,15928,2.0,20750,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-136.0,ULEZ,Estate,1.5,Petrol,14928,2.0,14999,Manual,2017,BMW,3,1,0,1,0,0,0,0,0,0,67 reg
-252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,124395,2.0,11850,Automatic,2017,BMW,3,1,0,1,1,0,0,0,1,0,17 reg
-313.0,ULEZ,Saloon,3.0,Diesel,38130,2.0,20000,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-163.0,ULEZ,Saloon,2.0,Diesel,29713,2.0,13425,Manual,2017,BMW,3,1,0,0,0,0,0,0,0,0,67 reg
-313.0,ULEZ,Saloon,3.0,Diesel,60586,2.0,16150,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,32586,2.0,16875,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-313.0,ULEZ,Saloon,3.0,Diesel,29624,2.0,20500,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-190.0,ULEZ,Saloon,2.0,Diesel,40321,2.0,14400,Automatic,2017,BMW,3,1,0,1,0,0,0,0,0,0,67 reg
-150.0,ULEZ,Saloon,2.0,Diesel,36679,2.0,14000,Manual,2017,BMW,3,1,0,1,0,0,1,0,0,0,17 reg
-136.0,ULEZ,Estate,1.5,Petrol,75802,2.0,13000,Automatic,2017,BMW,3,1,0,1,0,0,1,0,0,0,67 reg
-258.0,ULEZ,Saloon,3.0,Diesel,24833,2.0,17750,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-258.0,ULEZ,Saloon,3.0,Diesel,13747,2.0,21275,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-313.0,ULEZ,Saloon,3.0,Diesel,43049,2.0,18575,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-258.0,ULEZ,Saloon,3.0,Diesel,3699,2.0,20050,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-313.0,ULEZ,Saloon,3.0,Diesel,47373,2.0,19375,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-258.0,ULEZ,Saloon,3.0,Diesel,10552,2.0,19750,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-313.0,ULEZ,Saloon,3.0,Diesel,19789,2.0,21450,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-313.0,ULEZ,Saloon,3.0,Diesel,35526,2.0,20825,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-258.0,ULEZ,Saloon,3.0,Diesel,22713,2.0,17975,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-136.0,ULEZ,Estate,1.5,Petrol,25886,2.0,15000,Automatic,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
-313.0,ULEZ,Saloon,3.0,Diesel,27506,2.0,20325,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-136.0,ULEZ,Estate,1.5,Petrol,12636,2.0,16025,Automatic,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
-313.0,ULEZ,Saloon,3.0,Diesel,20714,2.0,22350,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-313.0,ULEZ,Estate,3.0,Diesel,40955,2.0,21025,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-190.0,ULEZ,Saloon,2.0,Diesel,19876,2.0,18225,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-313.0,ULEZ,Saloon,3.0,Diesel,20231,2.0,22525,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-313.0,ULEZ,Saloon,3.0,Diesel,29183,2.0,21700,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-313.0,ULEZ,Saloon,3.0,Diesel,27374,2.0,21000,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
-258.0,ULEZ,Saloon,3.0,Diesel,16465,2.0,18725,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
-313.0,ULEZ,Saloon,3.0,Diesel,14892,2.0,22925,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-188.0,ULEZ,Saloon,2.0,Diesel,16123,2.0,18880,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
-136.0,ULEZ,Saloon,1.5,Petrol,25275,2.0,13999,Automatic,2018,BMW,3,1,0,1,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Estate,2.0,Diesel,30609,2.0,14890,Automatic,2018,BMW,3,1,0,0,0,0,0,0,0,0,18 reg
-192.0,ULEZ,Saloon,2.0,Petrol,17050,2.0,19750,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-192.0,ULEZ,Saloon,2.0,Petrol,11623,2.0,21500,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-190.0,ULEZ,Saloon,2.0,Diesel,25209,2.0,21750,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
-190.0,ULEZ,Saloon,2.0,Diesel,34869,2.0,18450,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-184.0,ULEZ,Saloon,2.0,Petrol,15067,2.0,17900,Manual,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
-190.0,ULEZ,Saloon,2.0,Diesel,31775,2.0,16450,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,19436,2.0,17200,Automatic,2018,BMW,3,1,0,1,0,0,0,0,0,0,18 reg
-190.0,ULEZ,Saloon,2.0,Diesel,16069,2.0,18300,Manual,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
-190.0,ULEZ,Saloon,2.0,Diesel,21318,2.0,18925,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
-184.0,ULEZ,Saloon,2.0,Petrol,27064,2.0,17750,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-190.0,ULEZ,Saloon,2.0,Diesel,16268,2.0,19500,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
-184.0,ULEZ,Saloon,2.0,Petrol,33438,2.0,17625,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-258.0,ULEZ,Estate,3.0,Diesel,35103,2.0,20525,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-190.0,ULEZ,Saloon,2.0,Diesel,36486,2.0,18600,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-190.0,ULEZ,Saloon,2.0,Diesel,27749,2.0,17850,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-190.0,ULEZ,Saloon,2.0,Diesel,35873,2.0,17600,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
-190.0,ULEZ,Saloon,2.0,Diesel,24115,2.0,18725,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-313.0,ULEZ,Saloon,3.0,Diesel,37800,2.0,20575,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-258.0,ULEZ,Saloon,3.0,Diesel,57925,2.0,19000,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
-190.0,ULEZ,Estate,2.0,Diesel,33060,2.0,19250,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
-190.0,ULEZ,Saloon,2.0,Diesel,15242,2.0,19000,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
-306.0,ULEZ,Saloon,3.0,Diesel,36878,2.0,21950,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,29822,2.0,20000,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
-190.0,ULEZ,Saloon,2.0,Diesel,31512,2.0,17875,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
-190.0,ULEZ,Saloon,2.0,Diesel,31687,2.0,17925,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
-190.0,ULEZ,Estate,2.0,Diesel,30990,2.0,18625,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-190.0,ULEZ,Estate,2.0,Diesel,28883,2.0,18850,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-190.0,ULEZ,Estate,2.0,Diesel,25555,2.0,19225,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
-148.0,ULEZ,Saloon,2.0,Diesel,5225,2.0,27000,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
-190.0,ULEZ,Saloon,2.0,Diesel,11118,2.0,31000,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
-192.0,ULEZ,Saloon,2.0,Petrol,2942,2.0,31500,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
-184.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,3933,2.0,30500,Automatic,2019,BMW,3,1,0,0,0,0,0,0,0,0,69 reg
-192.0,ULEZ,Estate,2.0,Petrol,11717,2.0,23675,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
-148.0,ULEZ,Saloon,2.0,Diesel,4269,2.0,31750,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
-190.0,ULEZ,Estate,2.0,Diesel,4164,2.0,31500,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
-184.0,ULEZ,Saloon,2.0,Petrol,10933,2.0,25999,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
-190.0,ULEZ,Estate,2.0,Diesel,9833,2.0,32000,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
-190.0,ULEZ,Saloon,2.0,Diesel,18980,2.0,30500,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
-192.0,ULEZ,Saloon,2.0,Petrol,11494,2.0,26375,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
-184.0,ULEZ,Saloon,2.0,Petrol,7728,2.0,25775,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
-192.0,ULEZ,Saloon,2.0,Petrol,6107,2.0,26700,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
-184.0,ULEZ,Saloon,2.0,Petrol,7735,2.0,28950,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
-192.0,Non-ULEZ,Saloon,2.0,Petrol,6512,2.0,30000,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,20 reg
-148.0,ULEZ,Estate,3.0,Hybrid – Diesel/Electric,501,2.0,53000,Automatic,2020,BMW,3,1,0,0,0,0,0,0,0,0,70 reg
-192.0,ULEZ,Saloon,2.0,Petrol,3121,2.0,32500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
-190.0,ULEZ,Estate,2.0,Diesel,243,2.0,38250,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
-190.0,ULEZ,Saloon,2.0,Diesel,1032,2.0,34500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,20 reg
-192.0,ULEZ,Saloon,2.0,Petrol,3512,2.0,32500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
-192.0,ULEZ,Estate,2.0,Hybrid – Petrol/Electric Plug-in,1121,2.0,44500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
-192.0,ULEZ,Estate,2.0,Hybrid – Petrol/Electric Plug-in,1121,2.0,44500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
-134.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,39282,2.0,12800,Automatic,2016,Lexus,CT,0,0,1,0,0,0,0,0,0,16 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,17442,2.0,13995,Automatic,2016,Lexus,CT,0,0,0,0,0,1,0,0,0,66 reg
-134.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,22136,2.0,15950,Automatic,2017,Lexus,CT,0,0,0,0,1,0,0,0,0,67 reg
-134.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,34799,2.0,14300,Automatic,2017,Lexus,CT,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10561,2.0,16995,Automatic,2018,Lexus,CT,1,0,0,0,0,1,0,0,0,18 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,15968,2.0,18495,Automatic,2018,Lexus,CT,0,0,0,0,1,1,0,1,0,68 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,3672,2.0,19995,Automatic,2019,Lexus,CT,0,0,1,0,0,1,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,4125,2.0,18995,Automatic,2019,Lexus,CT,0,0,0,0,0,1,0,0,0,19 reg
-134.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,6792,2.0,21200,Automatic,2019,Lexus,CT,0,0,1,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10,2.0,21495,Automatic,2020,Lexus,CT,0,0,0,0,0,1,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10,2.0,21495,Automatic,2020,Lexus,CT,0,0,0,0,0,1,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10,2.0,21995,Automatic,2020,Lexus,CT,0,0,0,0,0,1,0,0,0,70 reg
-148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10,2.0,21995,Automatic,2020,Lexus,Cthatchback,0,0,0,0,0,1,0,0,0,70 reg
-148.0,ULEZ,Saloon,2.2,Diesel,75282,2.0,7500,Manual,2016,Mazda,3,0,0,1,0,0,1,0,0,0,16 reg
-148.0,ULEZ,Saloon,2.2,Diesel,46084,2.0,10780,Manual,2017,Mazda3,2.2,0,0,1,0,0,1,0,0,0,67 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,19616,2.0,11300,Manual,2017,Mazda3,2.0,1,0,0,0,0,1,0,0,0,17 reg
-148.0,ULEZ,Hatchback,2.2,Diesel,14143,2.0,13850,Automatic,2017,Mazda3,2.2L,0,0,1,0,0,1,0,0,0,67 reg
-119.0,ULEZ,Hatchback,2.0,Petrol,30643,2.0,11750,Manual,2017,Mazda3,2L,0,0,1,0,0,1,0,0,0,67 reg
-119.0,ULEZ,Hatchback,2.0,Petrol,16118,2.0,12200,Manual,2017,Mazda3,2L,0,0,1,0,0,1,0,0,0,17 reg
-119.0,ULEZ,Hatchback,2.0,Petrol,15313,2.0,14000,Automatic,2017,Mazda3,2L,0,0,1,0,0,1,0,0,0,67 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,36250,2.0,11895,Manual,2017,Mazda,3,0,0,1,0,0,1,0,0,0,67 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,5424,2.0,14500,Manual,2018,Mazda3,2.0,1,0,1,0,0,1,0,1,0,18 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,41930,2.0,11490,Manual,2018,Mazda,3,0,0,1,0,0,1,0,0,0,18 reg
-119.0,ULEZ,Hatchback,2.0,Petrol,21546,2.0,12925,Manual,2018,Mazda3,2L,0,0,1,0,0,1,0,0,0,18 reg
-163.0,ULEZ,Hatchback,2.0,Petrol,16453,2.0,13500,Manual,2018,Mazda3,2L,0,0,1,0,0,1,0,0,0,18 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,2872,2.0,18999,Automatic,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,1500,2.0,23990,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,5071,2.0,21990,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,3890,2.0,16995,Manual,2019,Mazda,3,1,0,0,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,10000,2.0,18295,Manual,2019,Mazda,3,0,0,1,0,1,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,5000,2.0,21495,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,5560,2.0,19495,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Saloon,2.0,Petrol,9000,2.0,20495,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,4641,2.0,23990,Manual,2020,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,13000,2.0,19495,Manual,2020,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
-148.0,ULEZ,Hatchback,2.0,Petrol,3000,2.0,19495,Manual,2020,Mazda,3,0,0,1,0,1,0,0,0,0,20 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,23500,3.0,3995,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,15 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,58473,2.0,5195,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,65 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,43004,2.0,5990,Manual,2015,Fiat,500,0,0,0,0,0,0,1,0,0,65 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,26549,2.0,6300,Manual,2015,Fiat,500,0,0,0,0,0,0,1,0,0,15 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,30002,2.0,6900,Manual,2015,Fiat,500,0,0,0,0,0,1,0,0,0,65 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,48680,2.0,4995,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,15 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,31809,2.0,6200,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,65 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,30915,4.0,5799,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,15 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,55000,3.0,4999,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,15 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,40000,2.0,5800,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,65 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,65000,2.0,5495,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,65 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,26429,2.0,6790,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,16 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,12100,2.0,7495,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,16 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,10901,2.0,6490,Manual,2016,Fiat,500,0,1,0,0,0,0,0,0,0,16 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,28132,2.0,6500,Manual,2016,Fiat,500,0,0,0,0,0,1,0,0,0,16 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,49346,2.0,5999,Manual,2016,Fiat,500,0,1,0,0,0,0,0,0,0,66 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,26791,2.0,6699,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,16 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,26451,2.0,7490,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,66 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,30904,2.0,6090,Manual,2016,Fiat,500,0,1,0,0,0,0,0,0,0,16 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,28647,2.0,5999,Manual,2016,Fiat,500,0,1,0,0,0,0,0,0,0,16 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,18263,2.0,5650,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,16 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,25200,2.0,6995,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,66 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,11706,2.0,7850,Manual,2016,Fiat,500,0,0,0,0,0,1,0,0,0,66 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,13670,2.0,6490,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,18304,2.0,5995,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,64000,2.0,5995,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,15826,2.0,7290,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,25268,2.0,7990,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,13904,2.0,7990,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,21799,2.0,7000,Manual,2017,Fiat,500,0,0,0,0,0,0,1,0,0,17 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,27409,2.0,6250,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,14981,2.0,7398,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,20022,2.0,6599,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,36076,2.0,7290,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,10051,2.0,8190,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,35349,2.0,7050,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,21999,2.0,7991,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,66 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,17767,2.0,7990,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,12053,2.0,7425,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,20950,2.0,7890,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,19399,2.0,9490,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,14409,2.0,8490,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,68 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,11218,2.0,8500,Manual,2018,Fiat,500,0,0,0,0,0,0,1,0,0,68 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,28291,2.0,8000,Manual,2018,Fiat,500,0,0,0,0,0,0,1,0,0,18 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,9470,2.0,9990,Automatic,2018,Fiat,500,0,0,0,0,0,0,0,0,0,18 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,21945,2.0,7525,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,4376,2.0,10990,Automatic,2018,Fiat,500,0,0,0,0,0,0,0,0,0,68 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,32030,2.0,7325,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,18 reg
-69.0,ULEZ,Hatchback,1.2,Petrol,12709,2.0,8000,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,18 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,4927,2.0,10495,Automatic,2018,Fiat,500,0,0,0,0,0,0,0,0,0,68 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,30285,2.0,8150,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,19 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,23268,2.0,8400,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,19 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,2081,2.0,9250,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,15076,2.0,8675,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,19 reg
-148.0,ULEZ,Hatchback,1.2,Petrol,983,2.0,11999,Automatic,2019,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,4571,2.0,11500,Automatic,2019,Fiat,500,0,0,0,0,0,0,1,0,0,19 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,6819,2.0,8990,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,19 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,3616,2.0,9400,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
-148.0,Non-ULEZ,Hatchback,1.2,Petrol,1459,2.0,12490,Manual,2020,Fiat,500,1,0,0,0,0,0,0,0,0,69 reg
-68.0,ULEZ,Hatchback,1.0,Petrol,1245,2.0,11990,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,20 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,4104,2.0,9299,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,2753,2.0,9299,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,7092,2.0,9200,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,6044,2.0,9200,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,5030,2.0,9300,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
-68.0,ULEZ,Hatchback,1.2,Petrol,3106,2.0,9375,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+BHP,ULEZ,body,engine,fuel,mileage,name,owners,price,transmission,year,make,model,se,eco,sport,m_sport,lux,sat_nav,bluetooth,leather,three_door,year_reg
+108.0,ULEZ,Hatchback,1.6,Diesel,82850,Audi A3 1.6 TDI SE 5d 109 BHP Nav Prep - Bluetooth - F&R Sensors,2.0,7991,Manual,2015,Audi,A3,1,0,0,0,0,1,1,0,0,15 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,38627,"Audi A3 2.0 TDI SE 5d 148 BHP, £20 YEAR ROAD TAX, SAT NAV, …",2.0,10980,Manual,2015,Audi,A3,1,0,0,0,0,1,0,0,0,65 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,84812,Audi A3 1.6 TDI 110 Sport 5dr Satellite Navigation,2.0,8350,Manual,2015,Audi,A3,0,0,1,0,0,1,0,0,0,15 reg
+182.0,ULEZ,Hatchback,2.0,Diesel,74413,Audi A3 2.0 TDI Sport Sportback S Tronic quattro 5dr AIR …,2.0,9699,Automatic,2015,Audi,A3,0,0,1,0,0,0,0,0,0,15 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,59152,Audi A3 1.6 TDI SE Sportback 5dr,2.0,8990,Manual,2015,Audi,A3,1,0,1,0,0,0,0,0,0,15 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,78876,Audi A3 1.6 TDI Ultra 110 SE 5dr Bluetooth,2.0,8800,Manual,2015,Audi,A3,1,0,0,0,0,0,1,0,0,65 reg
+108.0,ULEZ,Saloon,1.6,Diesel,55591,Audi A3 1.6 TDI S LINE 4d 109 BHP,2.0,12799,Manual,2015,Audi,A3,0,0,0,0,0,0,0,0,0,15 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,47606,Audi A3 1.6 TDI SE Sportback 5dr,2.0,9490,Manual,2015,Audi,A3,1,0,1,0,0,0,0,0,0,15 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,35439,Audi A3 2.0 TDI S Line 5dr Satellite Navigation,2.0,14000,Manual,2015,Audi,A3,0,0,0,0,0,1,0,0,0,15 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,54831,Audi A3 1.4 TFSI 150 S Line 3dr Bluetooth,2.0,11750,Manual,2015,Audi,A3,0,0,0,0,0,0,1,0,0,65 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,43908,Audi A3 1.6 TDI Ultra 110 SE 5dr Bluetooth,2.0,10950,Manual,2015,Audi,A3,1,0,0,0,0,0,1,0,0,65 reg
+123.0,ULEZ,Hatchback,1.4,Petrol,29706,Audi A3 S line 1.4 TFSI 125 PS S tronic 3dr,2.0,14450,Automatic,2015,Audi,A3,0,0,0,0,0,0,0,0,0,15 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,26900,Audi A3 1.4 TFSI S LINE 5d 148 BHP,2.0,14995,Manual,2015,Audi,A3,0,0,0,0,0,0,0,0,0,65 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,37119,Audi A3 1.6 TDI 110 SE Technik 3dr Satellite Navigation,2.0,10000,Manual,2015,Audi,A3,1,0,0,0,0,1,0,0,0,15 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,31700,Audi A3 Sportback SE Technik 1.6 TDI 110 PS S tronic 5dr,2.0,13250,Automatic,2015,Audi,A3,1,0,1,0,0,0,0,0,0,65 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,29874,Audi A3 2.0 TDI SE Technik 5dr Satellite Navigation,2.0,12250,Manual,2015,Audi,A3,1,0,0,0,0,1,0,0,0,65 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,87700,Audi A3 1.6 TDI SE Sportback 5dr,2.0,6990,Manual,2015,Audi,A3,1,0,1,0,0,0,0,0,0,15 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,71933,Audi A3 2.0 TDI SE Technik Sportback 5dr,2.0,8795,Manual,2015,Audi,A3,1,0,1,0,0,0,0,0,0,15 reg
+124.0,ULEZ,Hatchback,1.4,Petrol,36841,Audi A3 1.4 TFSI SPORT NAV 5d 124 BHP Call us for Finance and …,2.0,11967,Manual,2016,Audi,A3,0,0,1,0,0,1,0,0,0,16 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,51903,"Audi A3 2.0 TDI S LINE 5d 148 BHP, HALF LEATHER SPORTS S LINE …",2.0,14480,Manual,2016,Audi,A3,0,0,1,0,0,0,0,1,0,66 reg
+148.0,ULEZ,Saloon,1.6,Diesel,55300,Audi A3 1.6 TDI Sport S Tronic (s/s) 4dr,3.0,12990,Automatic,2016,Audi,A3,0,0,1,0,0,0,0,0,0,16 reg
+187.0,ULEZ,Hatchback,2.0,Petrol,21629,Audi A3 2.0 TFSI S LINE 5d 188 BHP RAC APPROVED DEALER GREAT …,2.0,17491,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Saloon,1.4,Petrol,57000,Audi A3 1.4 TFSI CoD Sport (s/s) 4dr,2.0,9995,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,51300,Audi A3 1.6 TDI SE TECHNIK 3d 109 BHP LOW RATE FINANCE AVIALABLE,2.0,9489,Manual,2016,Audi,A3,1,0,0,0,0,0,0,0,0,66 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,12710,Audi A3 1.6 TDI 110 Quattro Sport 5dr Satellite Navigation,2.0,15000,Manual,2016,Audi,A3,0,0,1,0,0,1,0,0,0,65 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,29723,Audi A3 1.4 TFSI S LINE 3d 148 BHP,2.0,14995,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,37908,Audi A3 1.4 TFSI S Line 5dr Satellite Navigation,2.0,15500,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,71874,Audi A3 1.6 TDI 110 Sport 5dr [Nav] Bluetooth,2.0,9250,Manual,2016,Audi,A3,0,0,1,0,0,1,1,0,0,65 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,42220,Audi A3 1.4 TFSI S Line 5dr Satellite Navigation,2.0,15750,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,22924,Audi A3 1.4 TFSI S Line 5dr Satellite Navigation,2.0,16500,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
+148.0,ULEZ,Saloon,1.4,Petrol,27245,Audi A3 1.4L S line CoD TFSI 4dr,2.0,15650,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,18446,Audi A3 1.4 TFSI 150 S Line 3dr [Nav] Bluetooth,2.0,14800,Manual,2016,Audi,A3,0,0,0,0,0,1,1,0,0,16 reg
+108.0,ULEZ,Saloon,1.6,Diesel,52602,Audi A3 1.6 TDI S LINE NAV 4d 109 BHP ** UK DELIVERY **,2.0,11844,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,16 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,27200,Audi A3 1.4 TFSI Sport 5dr Satellite Navigation,2.0,13850,Manual,2016,Audi,A3,0,0,1,0,0,1,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,26363,Audi A3 1.4 TFSI S Line 3dr Bluetooth,2.0,15000,Manual,2016,Audi,A3,0,0,0,0,0,0,1,0,0,66 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,35135,Audi A3 1.6 TDI S Line 5dr Satellite Navigation,2.0,14750,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,25157,Audi A3 1.4L S line CoD TFSI 3dr,2.0,13925,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,16 reg
+148.0,ULEZ,Saloon,1.4,Petrol,32140,Audi A3 1.4L Sport CoD TFSI 4dr,2.0,13200,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,35175,Audi A3 1.4L Sport CoD TFSI 5dr,2.0,13075,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,26000,Audi A3 Sportback Sport 1.6 TDI 110 PS 6-speed 5dr,2.0,13500,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Saloon,1.6,Diesel,25150,Audi A3 1.6 TDI S Line 4dr Bluetooth,2.0,16300,Manual,2016,Audi,A3,0,0,0,0,0,0,1,0,0,66 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,33789,Audi A3 1.6 TDI S Line 5dr Satellite Navigation,2.0,15000,Manual,2016,Audi,A3,0,0,0,0,0,1,0,0,0,66 reg
+148.0,ULEZ,Saloon,1.4,Petrol,27879,Audi A3 1.4L Sport CoD TFSI 4dr,2.0,14850,Automatic,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,43576,Audi A3 1.4 TFSI Sport 5dr S Tronic Satellite Navigation,2.0,13800,Automatic,2016,Audi,A3,0,0,1,0,0,1,0,0,0,66 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,22127,Audi A3 1.6L SE Technik TDI 5dr,2.0,12450,Manual,2016,Audi,A3,1,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,28052,Audi A3 1.4L Sport CoD TFSI 5dr,2.0,13350,Manual,2016,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+108.0,ULEZ,Saloon,1.6,Diesel,23066,Audi A3 1.6L S line TDI 4dr,2.0,15950,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.0,Petrol,16942,Audi A3 1.0 TFSI Sport 5dr Satellite Navigation,2.0,13500,Manual,2016,Audi,A3,0,0,1,0,0,1,0,0,0,16 reg
+148.0,ULEZ,Saloon,1.4,Petrol,31173,Audi A3 1.4L S line CoD TFSI 4dr,2.0,15300,Manual,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
+108.0,ULEZ,Saloon,1.6,Diesel,32664,Audi A3 1.6L S line TDI 4dr,2.0,16900,Automatic,2016,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,38814,Audi A3 2.0 TDI BLACK EDITION 3d 148 BHP HEATED SEATS! …,2.0,18991,Automatic,2017,Audi,A3,1,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,32300,Audi A3 2.0 TDI Sport Sportback (s/s) 5dr,2.0,13990,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,2.0,Diesel,47206,Audi A3 2.0 TDI 150 Sport 4dr Navigation - Full Service History,2.0,12999,Manual,2017,Audi,A3,1,0,1,0,0,1,0,0,0,17 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,49299,Audi A3 2.0 TDI S Line 5dr Satellite Navigation,2.0,14650,Manual,2017,Audi,A3,0,0,0,0,0,1,0,0,0,17 reg
+148.0,ULEZ,Saloon,1.4,Petrol,32095,Audi A3 1.4L S line CoD TFSI 4dr,2.0,15975,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,73228,Audi A3 1.5 TFSI SPORT 5d 148 BHP HEATED MIRRORS - CRUISE …,2.0,13000,Automatic,2017,Audi,A3,1,0,1,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,32113,Audi A3 1.5 TFSI SE 5d 148 BHP,2.0,11699,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,45589,Audi A3 1.5L SE CoD TFSI 5dr,2.0,11725,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,28319,Audi A3 1.6 TDI 116 S Line 5dr,2.0,14634,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,20784,Audi A3 1.4L Sport CoD TFSI 3dr,2.0,15025,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,20624,Audi A3 1L SE TFSI 5dr,2.0,12175,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,1.4,Petrol,20632,Audi A3 1.4L Sport CoD TFSI 4dr,2.0,14350,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,28170,Audi A3 Sportback Sport 1.6 TDI 110 PS 6-speed 5dr,2.0,14000,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,14651,Audi A3 2.0 TDI Quattro S Line 5dr Satellite Navigation,2.0,17750,Manual,2017,Audi,A3,0,0,0,0,0,1,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,52395,Audi A3 1.5L Black Edition CoD TFSI 5dr,2.0,16375,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,19000,Audi A3 Sportback S line 1.5 TFSI 150 PS S tronic 5dr,2.0,19000,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
+201.0,ULEZ,Hatchback,1.4,Hybrid – Petrol/Electric Plug-in,27968,Audi A3 1.4L e-tron TFSI 5dr,2.0,16750,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,34741,Audi A3 1.4L S line CoD TFSI 5dr,2.0,15475,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,21569,Audi A3 1L SE TFSI 5dr,2.0,12600,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,31502,Audi A3 1L SE TFSI 5dr,2.0,11925,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,27450,Audi A3 Sportback Sport 2.0 TDI 150 PS 6-speed 5dr,2.0,14500,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,20000,Audi A3 1.0 SPORTBACK TFSI SE 5d 114 BHP XENONS + DAB + …,2.0,12990,Manual,2017,Audi,A3,1,0,1,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,27733,Audi A3 1.5L Black Edition CoD TFSI 5dr,2.0,18275,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,1.6,Diesel,34250,Audi A3 Saloon S line 1.6 TDI 116 PS 6-speed 4dr,2.0,17950,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,36705,Audi A3 2.0 TFSI S Line 5dr S Tronic Satellite Navigation,2.0,17000,Automatic,2017,Audi,A3,0,0,0,0,0,1,0,0,0,17 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,25571,Audi A3 1.6L Black Edition TDI 5dr,2.0,17525,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,1.4,Petrol,35401,Audi A3 1.4L Black Edition CoD TFSI 4dr,2.0,17650,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,40200,Audi A3 Sportback SE Technik 1.6 TDI 110 PS 6-speed 5dr,2.0,12750,Manual,2017,Audi,A3,1,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,44944,Audi A3 Sportback S line 2.0 TDI 150 PS 6-speed 5dr,2.0,15250,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.0,Petrol,16645,Audi A3 1.0 TFSI SE 5dr,2.0,12799,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,35200,Audi A3 Sportback S line 2.0 TFSI 190 PS S tronic 5dr,2.0,18000,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Saloon,2.0,Diesel,23782,Audi A3 2L S line TDI 4dr,2.0,17425,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,22300,Audi A3 Sportback S line 1.5 TFSI 150 PS 6-speed 5dr,2.0,19000,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
+201.0,ULEZ,Hatchback,1.4,Hybrid – Petrol/Electric Plug-in,26213,Audi A3 1.4L e-tron TFSI 5dr,2.0,17500,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,1.4,Petrol,32976,Audi A3 1.4L S line CoD TFSI 4dr,2.0,15600,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+187.0,ULEZ,Hatchback,2.0,Petrol,47040,Audi A3 2L S line TFSI 3dr,2.0,16150,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,2.0,Diesel,27840,Audi A3 2L Sport TDI 4dr,2.0,15925,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,40023,Audi A3 1.6 TDI 116 SE Technik 5dr S Tronic Satellite Navigation,2.0,13800,Automatic,2017,Audi,A3,1,0,0,0,0,1,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.0,Petrol,20438,Audi A3 1.0 TFSI Sport 5dr,2.0,13599,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,39527,Audi A3 2L S line TDI 5dr,2.0,15000,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,14700,Audi A3 Sportback S line 2.0 TFSI 190 PS 6-speed 5dr,2.0,19250,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
+187.0,ULEZ,Hatchback,2.0,Petrol,20720,Audi A3 2L S line TFSI 5dr,2.0,20325,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,1.5,Petrol,21878,Audi A3 1.5L S line CoD TFSI 4dr,2.0,16625,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.0,Petrol,16289,Audi A3 1.0 TFSI SE 3dr,2.0,12599,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,2.0,Diesel,34838,Audi A3 2L S line TDI 4dr,2.0,17025,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,1.4,Petrol,26668,Audi A3 1.4L S line CoD TFSI 4dr,2.0,16175,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,2.0,Diesel,23952,Audi A3 2.0 TDI Sport 4dr,2.0,14599,Manual,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,1.4,Petrol,21756,Audi A3 1.4L S line CoD TFSI 4dr,2.0,16100,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,50000,Audi A3 1.6 TDI S Line 5dr Satellite Navigation,2.0,13850,Manual,2017,Audi,A3,0,0,0,0,0,1,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,33510,Audi A3 1.5L S line CoD TFSI 5dr,2.0,16700,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,1.4,Petrol,18864,Audi A3 1.4L S line CoD TFSI 4dr,2.0,16300,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,36288,Audi A3 2.0 TDI Black Edition 5dr Bluetooth,2.0,17250,Manual,2017,Audi,A3,0,0,0,0,0,0,1,0,0,17 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,22587,Audi A3 2L S line TDI 5dr,2.0,18225,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,13919,Audi A3 1.5L S line CoD TFSI 5dr,2.0,18375,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,33591,Audi A3 1.5L SE CoD TFSI 3dr,2.0,12350,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,30167,Audi A3 1L SE TFSI 5dr,2.0,12175,Manual,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
+108.0,ULEZ,Hatchback,1.6,Diesel,22634,Audi A3 1.6L SE TDI 5dr,2.0,14350,Automatic,2017,Audi,A3,1,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,1.5,Petrol,22904,Audi A3 1.5L S line CoD TFSI 4dr,2.0,16400,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,16968,Audi A3 1.4L Black Edition CoD TFSI 5dr,2.0,18325,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.4,Petrol,40651,Audi A3 1.4 TFSI Sport 5dr Satellite Navigation,2.0,13800,Manual,2017,Audi,A3,0,0,1,0,0,1,0,0,0,17 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,21112,Audi A3 2.0 TFSI Sport 5dr S Tronic Satellite Navigation,2.0,16000,Automatic,2017,Audi,A3,0,0,1,0,0,1,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,13702,Audi A3 1.5L S line CoD TFSI 5dr,2.0,17900,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+108.0,ULEZ,Saloon,1.6,Diesel,31093,Audi A3 1.6L S line TDI 4dr,2.0,16425,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,2.0,Diesel,15828,Audi A3 2L Black Edition TDI 4dr,2.0,19025,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,52750,Audi A3 Sportback Sport 1.6 TDI 110 PS S tronic 5dr,2.0,14500,Automatic,2017,Audi,A3,0,0,1,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,1.4,Petrol,13656,Audi A3 1.4L S line CoD TFSI 4dr,2.0,18425,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,1.4,Petrol,22453,Audi A3 1.4L S line CoD TFSI 4dr,2.0,17550,Automatic,2017,Audi,A3,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,2.0,Diesel,50881,Audi A3 2L S line TDI 4dr,2.0,15675,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Saloon,2.0,Diesel,11620,Audi A3 2L S line TDI 4dr,2.0,18275,Manual,2017,Audi,A3,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,61500,Audi A3 1.5 TFSI BLACK EDITION 3d 148 BHP,2.0,15499,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,16897,Audi A3 1.5 TFSI CoD S line Sportback S Tronic (s/s) 5dr …,2.0,17999,Automatic,2018,Audi,A3,0,0,1,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,14500,Audi A3 1.5 TFSI CoD S line Sportback (s/s) 5dr,2.0,17550,Manual,2018,Audi,A3,0,0,1,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,34500,Audi A3 TFSI S Line 5dr S Tronic [Tech Pack] 1.5,2.0,18750,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,15129,Audi A3 1L S line TFSI 5dr,2.0,16550,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
+201.0,ULEZ,Hatchback,1.4,Hybrid – Petrol/Electric Plug-in,53959,Audi A3 1.4L e-tron TFSI 5dr,2.0,16225,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,15200,Audi A3 Sportback SE Technik 1.5 TFSI cylinder on demand 150 …,2.0,15000,Manual,2018,Audi,A3,1,0,1,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,4513,Audi A3 1.5 TFSI Sport 5dr Satellite Navigation,2.0,17500,Manual,2018,Audi,A3,0,0,1,0,0,1,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,15814,Audi A3 1.5L S line CoD TFSI 5dr,2.0,18450,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,9943,Audi A3 1.5L S line CoD TFSI 5dr,2.0,18550,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+187.0,ULEZ,Saloon,2.0,Petrol,26127,Audi A3 2L Black Edition TFSI 4dr,2.0,22275,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,15445,Audi A3 1L Sport TFSI 5dr,2.0,15425,Manual,2018,Audi,A3,0,0,1,0,0,0,0,0,0,68 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,12767,Audi A3 1.5L Sport CoD TFSI 5dr,2.0,17625,Automatic,2018,Audi,A3,0,0,1,0,0,0,0,0,0,18 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,18452,Audi A3 1L Black Edition TFSI 5dr,2.0,17875,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
+148.0,ULEZ,Saloon,1.5,Petrol,8216,Audi A3 1.5L S line CoD TFSI 4dr,2.0,20025,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
+187.0,ULEZ,Saloon,2.0,Petrol,43099,Audi A3 2L S line TFSI 4dr,2.0,18500,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,23508,Audi A3 1.5L Black Edition CoD TFSI 5dr,2.0,19375,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.0,Petrol,18000,Audi A3 Sportback Black Edition 30 TFSI 116 PS 6-speed 1.0 5dr,2.0,19500,Manual,2018,Audi,A3,0,0,1,0,0,0,0,0,0,68 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,11100,Audi A3 1.5L S line CoD TFSI 5dr,2.0,19350,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,15740,Audi A3 1.5L Black Edition CoD TFSI 5dr,2.0,20225,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Saloon,2.0,Diesel,11383,Audi A3 2L S line TDI 4dr,2.0,19075,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,13703,Audi A3 1.5L S line CoD TFSI 5dr,2.0,19025,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,10029,Audi A3 1.5L S line CoD TFSI 5dr,2.0,20125,Automatic,2018,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,22115,Audi A3 1.5L S line CoD TFSI 5dr,2.0,17700,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,20759,Audi A3 1.5L S line CoD TFSI 5dr,2.0,17850,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Saloon,2.0,Diesel,36150,Audi A3 Saloon Black Edition 2.0 TDI 150 PS 6-speed 4dr,2.0,21000,Manual,2018,Audi,A3,0,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,27500,Audi A3 Sportback Sport 2.0 TFSI 190 PS 6-speed 5dr,2.0,17850,Manual,2018,Audi,A3,0,0,1,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,5000,Audi A3 1.5 TFSI CoD 35 S line Sportback S Tronic (s/s) 5dr,2.0,20495,Automatic,2019,Audi,A3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,11889,Audi A3 1.5 TFSI Black Edition 5dr Bluetooth,2.0,20250,Manual,2019,Audi,A3,0,0,0,0,0,0,1,0,0,68 reg
+114.0,ULEZ,Saloon,1.0,Petrol,18210,Audi A3 1L Black Edition TFSI 4dr,2.0,19525,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,24115,Audi A3 30 TDI 116 SE Technik 5dr 1.6,2.0,15699,Manual,2019,Audi,A3,1,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.0,Petrol,15293,Audi A3 Sportback S line 30 TFSI 116 PS 6-speed 1.0 5dr,2.0,18500,Manual,2019,Audi,A3,0,0,1,0,0,0,0,0,0,68 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,7957,Audi A3 1.5L Black Edition CoD TFSI 5dr,2.0,21950,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,4500,Audi A3 Sportback SE Technik 30 TDI 116 PS 6-speed 1.6 5dr,2.0,18000,Manual,2019,Audi,A3,1,0,1,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,15384,Audi A3 35 TFSI S Line 5dr S Tronic 1.5,2.0,19599,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,5000,Audi A3 Sportback SE Technik 30 TDI 116 PS S tronic 1.6 5dr,2.0,17950,Automatic,2019,Audi,A3,1,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,13864,Audi A3 Sportback Black Edition 35 TFSI 150 PS 6-speed 1.5 5dr,2.0,20850,Manual,2019,Audi,A3,0,0,1,0,0,0,0,0,0,68 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,5100,Audi A3 Sportback S line 30 TDI 116 PS 6-speed 1.6 5dr,2.0,20000,Manual,2019,Audi,A3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,11638,Audi A3 Sportback S line 35 TFSI 150 PS S tronic 1.5 5dr,2.0,22000,Automatic,2019,Audi,A3,0,0,1,0,0,0,0,0,0,69 reg
+114.0,ULEZ,Hatchback,1.0,Petrol,12435,Audi A3 1L SE Technik TFSI 5dr,2.0,16950,Automatic,2019,Audi,A3,1,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,11486,Audi A3 Sportback SE Technik 30 TDI 116 PS S tronic 1.6 5dr,2.0,18000,Automatic,2019,Audi,A3,1,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,18606,Audi A3 1.5L S line CoD TFSI 5dr,2.0,19825,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,11713,Audi A3 1.5L S line CoD TFSI 5dr,2.0,19400,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,12237,Audi A3 1.5L S line CoD TFSI 5dr,2.0,20250,Automatic,2019,Audi,A3,0,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Saloon,1.5,Petrol,24191,Audi A3 Saloon S line 35 TFSI 150 PS 6-speed 1.5 4dr,2.0,19450,Manual,2019,Audi,A3,0,0,0,0,0,0,0,0,0,68 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,1500,Audi A3 Sportback Black Edition 30 TDI 116 PS 6-speed 1.6 5dr,2.0,25000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.0,Petrol,1903,Audi A3 30 TFSI S line 5dr 1.0,2.0,25000,Manual,2020,Audi,A3,0,0,0,0,0,0,0,0,0,20 reg
+148.0,ULEZ,Saloon,2.0,Diesel,5000,Audi A3 Saloon Sport 35 TFSI 150 PS 6-speed 2.0 4dr,2.0,25000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,1000,Audi A3 Sportback S line 35 TDI 150 PS S tronic 2.0 5dr,2.0,30500,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Saloon,1.5,Petrol,3500,Audi A3 Saloon S line 35 TFSI 150 PS 6-speed 1.5 4dr,2.0,28000,Manual,2020,Audi,A3,0,0,0,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,1500,Audi A3 Sportback SE Technik 30 TDI 116 PS 6-speed 1.6 5dr,2.0,21000,Manual,2020,Audi,A3,1,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,1500,Audi A3 Sportback S line 35 TFSI 150 PS S tronic 1.5 5dr,2.0,24500,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,1500,Audi A3 Sportback Sport 30 TDI 116 PS 6-speed 1.6 5dr,2.0,24000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,4604,Audi A3 Sportback S line 40 TDI quattro 184 PS S tronic 2.0 5dr,2.0,27000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,20 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,2500,Audi A3 Sportback Black Edition 30 TDI 116 PS 6-speed 1.6 5dr,2.0,25000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,8584,Audi A3 1.5L Sport CoD TFSI 5dr,2.0,20575,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,1500,Audi A3 Sportback SE Technik 35 TFSI 150 PS 6-speed 1.5 5dr,2.0,21000,Manual,2020,Audi,A3,1,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,1500,Audi A3 Sportback S line 35 TFSI 150 PS S tronic 1.5 5dr,2.0,29000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,2500,Audi A3 Sportback Sport 35 TFSI 150 PS S tronic 1.5 5dr,2.0,24000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,4500,Audi A3 Sportback S line 30 TDI 116 PS 6-speed 1.6 5dr,2.0,22000,Manual,2020,Audi,A3,0,0,1,0,0,0,0,0,0,20 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,2500,Audi A3 Sportback Sport 35 TFSI 150 PS S tronic 1.5 5dr,2.0,24000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Saloon,1.5,Petrol,4750,Audi A3 Saloon Black Edition 35 TFSI 150 PS S tronic 1.5 4dr,2.0,28000,Automatic,2020,Audi,A3,0,0,0,0,0,0,0,0,0,20 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,3500,Audi A3 Sportback Sport 35 TFSI 150 PS S tronic 1.5 5dr,2.0,24000,Automatic,2020,Audi,A3,0,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.6,Diesel,2500,Audi A3 Sportback SE Technik 30 TDI 116 PS 6-speed 1.6 5dr,2.0,21000,Manual,2020,Audi,A3,1,0,1,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,59880,BMW 1 Series 2.0 118d M Sport Auto (s/s) 3dr,3.0,10480,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,15 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,29872,BMW 1 SERIES 118i [1.5] Sport 5dr,2.0,9490,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
+136.0,ULEZ,Hatchback,1.6,Petrol,56489,BMW 1 Series 1.6 116i Sport Sports Hatch (s/s) 3dr,3.0,7890,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,64 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,48000,BMW 1 SERIES 116D M SPORT 1.5 5dr,2.0,11990,Manual,2015,BMW,1,1,0,1,1,0,0,0,0,0,65 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,32979,BMW 1 Series 1.5 118i Sport (s/s) 3dr,2.0,9899,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,52000,BMW 1 Series 1.5 116d M Sport Auto (s/s) 5dr,2.0,11500,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,65 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,48000,BMW 1 SERIES 118I M SPORT 1.5 5dr,2.0,12590,Manual,2015,BMW,1,1,0,1,1,0,0,0,0,0,65 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,40074,BMW 1 SERIES 1.5 116D ED PLUS 5d 114 BHP AIR CON - ALLOYS - …,2.0,9299,Manual,2015,BMW,1,1,0,0,0,0,0,0,0,0,65 reg
+116.0,Non-ULEZ,Hatchback,2.0,Diesel,78844,BMW 1 Series 2.0 116d Sport Sports Hatch (s/s) 5dr,2.0,7995,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,15 reg
+116.0,Non-ULEZ,Hatchback,2.0,Diesel,29135,BMW 1 Series 116d Sport 5dr Bluetooth 2.0,2.0,10500,Manual,2015,BMW,1,1,0,1,0,0,0,1,0,0,15 reg
+141.0,Non-ULEZ,Hatchback,2.0,Diesel,64600,BMW 1 SERIES 2.0 118D M SPORT 5d 141 BHP,2.0,10999,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,15 reg
+134.0,ULEZ,Hatchback,1.6,Petrol,91000,BMW 1 SERIES 118I SPORT (SATELLITE NAVIGATION) 5dr 1.6,2.0,8290,Manual,2015,BMW,1,1,0,1,0,0,1,0,0,0,15 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,73300,BMW 1 SERIES 118I SPORT 1.5 5dr,2.0,9290,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,37581,BMW 1 Series 1.5L Sport 118i 5dr,2.0,10475,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
+136.0,ULEZ,Hatchback,1.6,Petrol,23810,BMW 1 Series 118i Sport 5dr Satellite Navigation 1.6,2.0,11000,Manual,2015,BMW,1,1,0,1,0,0,1,0,0,0,15 reg
+141.0,Non-ULEZ,Hatchback,2.0,Diesel,65343,BMW 1 SERIES 2.0 118D M SPORT 5d 141 BHP,2.0,11490,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,15 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,57443,BMW 1 Series 118d M Sport 5dr Leather Seats 2.0,2.0,11500,Manual,2015,BMW,1,1,0,1,1,0,0,0,1,0,65 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,30407,BMW 1 Series 3.0 M135i Auto (s/s) 5dr,4.0,17990,Automatic,2015,BMW,1,1,0,0,0,0,0,0,0,0,65 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,38748,BMW 1 Series 116d Sport 5dr Step Auto Satellite Navigation 1.5,2.0,12500,Automatic,2015,BMW,1,1,0,1,0,0,1,0,0,0,65 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,23561,BMW 1 Series 116d Sport 5dr Bluetooth 1.5,2.0,11000,Manual,2015,BMW,1,1,0,1,0,0,0,1,0,0,65 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,25385,BMW 1 Series 120d Sport 5-Door 2.0 5dr,2.0,13000,Manual,2015,BMW,1,1,0,1,0,0,0,0,0,0,15 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,35000,BMW 1 Series 116d ED PLUS 1.5 5dr,2.0,10995,Manual,2015,BMW,1,1,0,0,0,0,0,0,0,0,65 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,10724,BMW 1 Series 2L M Sport 120d 3dr,2.0,15400,Automatic,2015,BMW,1,1,0,1,1,0,0,0,0,0,65 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,43619,BMW 1 SERIES 1.5 116D M SPORT 5d 114 BHP NAVIGATION! BLUETOOTH!,2.0,11991,Manual,2016,BMW,1,1,0,1,1,0,1,1,0,0,65 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,20514,BMW 1 Series 118d M Sport 5-Door 2.0 5dr,2.0,15000,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,54000,BMW 1 Series 1.5 116d Sport (s/s) 3dr,2.0,9275,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,16 reg
+221.0,ULEZ,Hatchback,2.0,Diesel,68649,BMW 1 SERIES 2.0 125D M SPORT 5d 221 BHP PARKING SENSORS - …,2.0,13499,Automatic,2016,BMW,1,1,0,1,1,0,0,0,0,0,16 reg
+134.0,ULEZ,Hatchback,1.5,Petrol,26133,BMW 1 SERIES 1.5 118I M SPORT 5d 134 BHP BLUETOOTH - MP3 …,2.0,12799,Manual,2016,BMW,1,1,0,1,1,0,0,1,0,0,66 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,35000,BMW 1 SERIES 118I SPORT 1.5 5dr,2.0,11990,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,43505,BMW 1 Series 3.0 M135i Auto (s/s) 5dr,2.0,17299,Automatic,2016,BMW,1,1,0,0,0,0,0,0,0,0,16 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,86116,BMW 1 SERIES 1.5 116D ED PLUS 5d 114 BHP AIR CON - ALLOYS - …,2.0,8000,Manual,2016,BMW,1,1,0,0,0,0,0,0,0,0,65 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,28999,BMW 1 Series 1.5 116d ED Plus (s/s) 5dr,2.0,11491,Manual,2016,BMW,1,1,0,0,0,0,0,0,0,0,16 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,39110,BMW 1 Series 116d M Sport 5dr Leather Seats 1.5,2.0,12500,Manual,2016,BMW,1,1,0,1,1,0,0,0,1,0,66 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,24683,BMW 1 Series 1.5L Sport 116d 5dr,2.0,11125,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,16 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,68190,BMW 1 Series 2L M Sport 118d 5dr,2.0,11000,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
+306.0,ULEZ,Hatchback,3.0,Petrol,30564,BMW 1 Series M135i 3-Door Sports 3.0 3dr,2.0,18000,Automatic,2016,BMW,1,1,0,1,0,0,0,0,0,1,16 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,26467,BMW 1 Series 1.5L M Sport 118i 3dr,2.0,12850,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,21603,BMW 1 Series 118d Sport 3dr [Nav] Satellite Navigation 2.0,2.0,12000,Manual,2016,BMW,1,1,0,1,0,0,1,0,0,0,66 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,22262,BMW 1 Series 2L M Sport 120d 5dr,2.0,13900,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,16 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,47814,BMW 1 Series 116d M Sport 5dr [Nav] Satellite Navigation 1.5,2.0,12650,Manual,2016,BMW,1,1,0,1,1,0,1,0,0,0,66 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,28578,BMW 1 Series 118i [1.5] M Sport 5dr [Nav] Step Auto Satellite …,2.0,14000,Automatic,2016,BMW,1,1,0,1,1,0,1,0,0,0,16 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,41664,BMW 1 Series 116d EfficientDynamics Plus 5dr Satellite …,2.0,10900,Manual,2016,BMW,1,1,0,0,0,0,1,0,0,0,66 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,20739,BMW 1 Series 2L Sport 118d 5dr,2.0,12425,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,52755,BMW 1 Series 1.5 116d Sport (s/s) 5dr,2.0,9599,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,16218,BMW 1 Series 118i [1.5] M Sport 5dr Step Auto Satellite …,2.0,14750,Automatic,2016,BMW,1,1,0,1,1,0,1,0,0,0,16 reg
+224.0,ULEZ,Hatchback,2.0,Diesel,28480,BMW 1 Series 125d M Sport 3-Door 2.0 3dr,2.0,17500,Automatic,2016,BMW,1,1,0,1,1,0,0,0,0,1,66 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,30596,BMW 1 Series 2L Sport 118d 3dr,2.0,10775,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,16 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,27668,BMW 1 Series 1.5L Sport 116d 3dr,2.0,11250,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,6666,BMW 1 Series 2L Sport 118d 5dr,2.0,14450,Automatic,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,48000,BMW 1 Series 2.0 120d Sport Auto (s/s) 5dr,2.0,12991,Automatic,2016,BMW,1,1,0,1,0,0,0,0,0,0,16 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,27849,BMW 1 Series 120d M Sport 3dr Step Auto Leather Seats 2.0,2.0,15500,Automatic,2016,BMW,1,1,0,1,1,0,0,0,1,0,16 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,16218,BMW 1 Series 118i [1.5] M Sport 5dr Step Auto Satellite …,2.0,14750,Automatic,2016,BMW,1,1,0,1,1,0,1,0,0,0,16 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,17451,BMW 1 Series 1.5L Sport 116d 5dr,2.0,12075,Manual,2016,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,43930,BMW 1 Series 116d Sport 5dr Bluetooth 1.5,2.0,10700,Manual,2016,BMW,1,1,0,1,0,0,0,1,0,0,65 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,24164,BMW 1 Series 1.5L ED Plus 116d 5dr,2.0,11250,Manual,2016,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
+188.0,ULEZ,Hatchback,2.0,Diesel,34967,BMW 1 SERIES 2.0 120D XDRIVE SPORT 5d 188 BHP AIR CON - ALLOYS,2.0,12499,Automatic,2016,BMW,1,1,0,1,0,0,0,0,0,0,65 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,36336,BMW 1 Series 2L M Sport 120d 5dr,2.0,15425,Automatic,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,21314,BMW 1 Series 1.5L M Sport 118i 5dr,2.0,14850,Automatic,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,46210,BMW 1 Series 116d Sport 5dr Step Auto Satellite Navigation 1.5,2.0,12400,Automatic,2016,BMW,1,1,0,1,0,0,1,0,0,0,16 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,33748,BMW 1 Series 118i [1.5] M Sport 3dr [Nav] Step Auto Satellite …,2.0,14500,Automatic,2016,BMW,1,1,0,1,1,0,1,0,0,0,66 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,33000,BMW 1 Series 1.5 116d M Sport (s/s) 5dr,2.0,13491,Manual,2016,BMW,1,1,0,1,1,0,0,0,0,0,66 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,30149,BMW 1 Series 118i [1.5] Sport 3dr Step Auto Satellite Navigation,2.0,12750,Automatic,2016,BMW,1,1,0,1,0,0,1,0,0,0,16 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,30233,BMW 1 SERIES 1.5 116D SE 5d 114 BHP,2.0,12990,Automatic,2016,BMW,1,1,0,0,0,0,0,0,0,0,16 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,59465,BMW 1 Series 116d M Sport 3dr Satellite Navigation 1.5,2.0,11750,Manual,2016,BMW,1,1,0,1,1,0,1,0,0,0,66 reg
+340.0,ULEZ,Hatchback,3.0,Petrol,24050,BMW 1 Series 3L M140i 5dr,2.0,19350,Automatic,2016,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
+147.0,ULEZ,Hatchback,2.0,Diesel,21660,"BMW 1 SERIES 2.0 118D M SPORT 5d 147 BHP, INTERIOR COMFORT …",2.0,15980,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+335.0,ULEZ,Hatchback,3.0,Petrol,24584,BMW 1 SERIES 3.0 M140I SHADOW EDITION 5d 335 BHP H/K - FBMWSH …,2.0,21991,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,67 reg
+147.0,ULEZ,Hatchback,2.0,Diesel,21466,"BMW 1 SERIES 2.0 118D SPORT 5d 147 BHP, SAT NAV, 17 "" ALLOYS, …",2.0,12480,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,41370,BMW 1 SERIES 1.5 116D ED PLUS 5d 114 BHP Nav - BT - Cruise - …,2.0,10991,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
+147.0,ULEZ,Hatchback,2.0,Diesel,28814,"BMW 1 SERIES 2.0 118D SPORT 5d 147 BHP, BLACK SPORTS SEATS …",2.0,12980,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,12601,BMW 1 SERIES 3.0 M140I SHADOW EDITION 5d 335 BHP NAVIGATION! …,2.0,22991,Automatic,2017,BMW,1,1,0,0,0,0,1,0,0,0,67 reg
+147.0,ULEZ,Hatchback,2.0,Diesel,35265,"BMW 1 SERIES 2.0 118D M SPORT 5d 147 BHP, SAT NAV, REAR …",2.0,13980,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,29967,BMW 1 Series 3.0 M140i Shadow Edition Sports Hatch Auto (s/s) …,2.0,21980,Automatic,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+134.0,ULEZ,Hatchback,1.5,Petrol,27689,BMW 1 SERIES 1.5 118I SPORT 5d 134 BHP Call us for Finance and …,2.0,14978,Automatic,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,7500,BMW 1 Series 3.0 M140i Auto (s/s) 5dr,2.0,21250,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,26900,BMW 1 Series 2.0 118d M Sport Sports Hatch Auto (s/s) 5dr,2.0,15790,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,35290,BMW 1 Series 2.0 118d Sport (s/s) 5dr,2.0,11992,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,57866,BMW 1 SERIES 2.0 120D M SPORT SHADOW EDITION 5d 188 BHP,2.0,15990,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,29389,BMW 1 Series 116d M Sport 5-Door 1.5 5dr,2.0,15000,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,13700,BMW 1 Series 1.5 116d M Sport Sports Hatch (s/s) 5dr,2.0,14990,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+147.0,ULEZ,Hatchback,2.0,Diesel,44836,BMW 1 SERIES 2.0 118D SPORT 5d 147 BHP AIR CON - ALLOYS - …,2.0,11000,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
+147.0,ULEZ,Hatchback,2.0,Diesel,51506,BMW 1 SERIES 2.0 118D SPORT 5d 147 BHP AIR CONDITIONING - …,2.0,10799,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,25008,BMW 1 Series 116d M Sport Shadow Edition 5-door 1.5 5dr,2.0,16250,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+335.0,ULEZ,Hatchback,3.0,Petrol,55922,BMW 1 SERIES 3.0 M140I 5d AUTO 335 BHP HATCHBACK,2.0,16999,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
+147.0,ULEZ,Hatchback,2.0,Diesel,37546,BMW 1 SERIES 2.0 118D SPORT 5d 147 BHP REAR PARKING SENSORS - …,2.0,11599,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,41000,BMW 1 SERIES 118D M SPORT 2.0 5dr,2.0,13990,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,32814,BMW 1 SERIES 1.5 116D M SPORT 5d 114 BHP AIR CON - REAR …,2.0,13000,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,49336,BMW 1 Series 1.5L Sport 116d 5dr,2.0,10550,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,25158,BMW 1 Series 118i [1.5] M Sport 5dr Satellite Navigation,2.0,13000,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,32466,BMW 1 Series 120d Sport 3dr Satellite Navigation 2.0,2.0,12500,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,27407,BMW 1 Series 116d Sport 5dr Satellite Navigation 1.5,2.0,12000,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,24388,BMW 1 Series 116d M Sport 5dr Satellite Navigation 1.5,2.0,15000,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,55557,BMW 1 Series 1.5L ED Plus 116d 5dr,2.0,10075,Manual,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,59870,BMW 1 Series 118d M Sport 5dr Satellite Navigation 2.0,2.0,13000,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,67 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,26242,BMW 1 Series 2L M Sport 118d 3dr,2.0,14025,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,38475,BMW 1 Series 118d M Sport 5-Door 2.0 5dr,2.0,14750,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,12740,BMW 1 Series 2L M Sport 118d 5dr,2.0,15450,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,25158,BMW 1 Series 118i [1.5] M Sport 5dr Satellite Navigation,2.0,13000,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
+134.0,ULEZ,Hatchback,1.5,Petrol,13851,BMW 1 SERIES 1.5 118I SE 3d 134 BHP AIR CON - ALLOYS - …,2.0,11499,Manual,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,19324,BMW 1 Series 1.5L Sport 118i 5dr,2.0,12475,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,37659,BMW 1 Series 2L Sport 118d 3dr,2.0,12000,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,26338,BMW 1 Series 1.5L Sport 116d 5dr,2.0,11725,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,44824,BMW 1 Series 118d Sport 5dr [Nav] Satellite Navigation 2.0,2.0,12100,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,67 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,55963,BMW 1 Series 116d EfficientDynamics Plus 5dr Satellite …,2.0,10000,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
+134.0,ULEZ,Hatchback,1.5,Petrol,17471,BMW 1 SERIES 1.5 118I SE 3d 134 BHP CHEAPEST LIKE FOR LIKE …,2.0,11499,Manual,2017,BMW,1,1,0,0,0,0,0,0,0,0,67 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,26273,BMW 1 Series 118d Sport 5dr [Nav] Satellite Navigation 2.0,2.0,13550,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,67 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,44675,BMW 1 Series 1.5L Sport 116d 5dr,2.0,11525,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,15000,BMW 1 Series 3.0 M140i Auto (s/s) 5dr,2.0,20950,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,40085,BMW 1 Series 116d SE 5dr [Nav] Satellite Navigation 1.5,2.0,10000,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,66 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,21500,BMW 1 Series 116d EfficientDynamics Plus 5dr Satellite …,2.0,12550,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,27023,BMW 1 Series 2L Sport 118d 5dr,2.0,12625,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,18390,BMW 1 Series 1.5L Sport 116d 5dr,2.0,12375,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,50211,BMW 1 Series 1.5L SE 116d 5dr,2.0,10450,Manual,2017,BMW,1,1,0,0,0,0,0,0,0,0,67 reg
+340.0,ULEZ,Hatchback,3.0,Petrol,24900,BMW 1 Series M140i 5-door 3.0 5dr,2.0,21000,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,34215,BMW 1 Series 2L Sport 118d 5dr,2.0,11975,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,44288,BMW 1 Series 1.5L M Sport 116d 5dr,2.0,12650,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,23144,BMW 1 Series 1.5L M Sport 118i 5dr,2.0,14350,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,18533,BMW 1 Series 1.5L Sport 118i 5dr,2.0,12650,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,66 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,44106,BMW 1 Series 116d SE 5dr [Nav] Step Auto Satellite Navigation …,2.0,12750,Automatic,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,9952,BMW 1 Series 118i [1.5] Sport 5dr [Nav] Satellite Navigation,2.0,13750,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,23099,BMW 1 Series 118d M Sport 5dr [Nav] Satellite Navigation 2.0,2.0,14500,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
+184.0,ULEZ,Hatchback,2.0,Petrol,26317,BMW 1 Series 2L M Sport 120i 3dr,2.0,15350,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+224.0,ULEZ,Hatchback,2.0,Petrol,20922,BMW 1 Series 2L M Sport 125i 3dr,2.0,17725,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,49914,BMW 1 Series 2L SE 118d 5dr,2.0,11900,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,19612,BMW 1 Series 1.5L M Sport 116d 5dr,2.0,14025,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,30833,BMW 1 Series 1.5L Sport 118i 5dr,2.0,11850,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,26087,BMW 1 Series 2L Sport 118d 5dr,2.0,12500,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,41217,BMW 1 Series 116d Sport 5dr Satellite Navigation 1.5,2.0,11600,Manual,2017,BMW,1,1,0,1,0,0,1,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,26341,BMW 1 Series 2L Sport 118d 5dr,2.0,12850,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,36277,BMW 1 Series 2L Sport 120d 5dr,2.0,14925,Automatic,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,23886,BMW 1 Series 1.5L Sport 116d 5dr,2.0,12600,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+340.0,ULEZ,Hatchback,3.0,Petrol,32077,BMW 1 Series 3L M140i 5dr,2.0,19300,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,19192,BMW 1 Series 1.5L Sport 116d 5dr,2.0,12200,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,13652,BMW 1 Series 2L M Sport Shadow Edition 118d 5dr,2.0,17325,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+147.0,ULEZ,Hatchback,2.0,Diesel,16938,BMW 1 SERIES 2.0 118D M SPORT 5d 147 BHP,2.0,16999,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,10077,BMW 1 Series 2L M Sport 118d 5dr,2.0,16500,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,26951,BMW 1 Series 2L M Sport 118d 5dr,2.0,15325,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,22944,BMW 1 Series 2L M Sport 118d 5dr,2.0,14050,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,11965,BMW 1 Series 1.5L Sport 118i 5dr,2.0,14775,Automatic,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,33673,BMW 1 Series 2L Sport 118d 3dr,2.0,12400,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+188.0,ULEZ,Hatchback,2.0,Diesel,28556,BMW 1 SERIES 2.0 120D XDRIVE M SPORT 5d 188 BHP BUSINESS NAV -,2.0,16499,Automatic,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,14438,BMW 1 Series 116d M Sport 5dr [Nav] Step Auto Satellite …,2.0,15800,Automatic,2017,BMW,1,1,0,1,1,0,1,0,0,0,17 reg
+224.0,ULEZ,Hatchback,2.0,Diesel,25378,BMW 1 Series 2L M Sport 125d 3dr,2.0,17125,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,32952,BMW 1 Series 116d EfficientDynamics Plus 5dr Satellite …,2.0,12000,Manual,2017,BMW,1,1,0,0,0,0,1,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,30589,BMW 1 Series 1.5L Sport 116d 5dr,2.0,11725,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+340.0,ULEZ,Hatchback,3.0,Petrol,18961,BMW 1 Series 3L M140i 5dr,2.0,20300,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,66 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,26044,BMW 1 Series 2L Sport 118d 5dr,2.0,12650,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,25077,BMW 1 Series 1.5L Sport 116d 5dr,2.0,12525,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,20192,BMW 1 Series 1.5L Sport 118i 5dr,2.0,12675,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,28182,BMW 1 Series 116d Sport 3dr [Nav] Step Auto Satellite …,2.0,13750,Automatic,2017,BMW,1,1,0,1,0,0,1,0,0,0,67 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,18336,BMW 1 Series 2L Sport 118d 5dr,2.0,13150,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,20081,BMW 1 Series 118d M Sport 5-Door 2.0 5dr,2.0,17750,Automatic,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+340.0,ULEZ,Hatchback,3.0,Petrol,27516,BMW 1 Series 3L M140i 5dr,2.0,19750,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,36932,BMW 1 Series 1.5L M Sport 116d 5dr,2.0,13025,Manual,2017,BMW,1,1,0,1,1,0,0,0,0,0,17 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,18031,BMW 1 Series 2L Sport 118d 5dr,2.0,13125,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+340.0,ULEZ,Hatchback,3.0,Petrol,19784,BMW 1 Series 3L M140i 5dr,2.0,20450,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+340.0,ULEZ,Hatchback,3.0,Petrol,31051,BMW 1 Series 3L M140i 5dr,2.0,19325,Automatic,2017,BMW,1,1,0,0,0,0,0,0,0,0,17 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,28674,BMW 1 Series 1.5L Sport 116d 5dr,2.0,12450,Manual,2017,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,20294,BMW 1 Series 118d M Sport Shadow Edition 5dr Satellite …,2.0,15500,Manual,2017,BMW,1,1,0,1,1,0,1,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.5,Petrol,6421,BMW 1 Series 1.5 118i GPF Sport Sports Hatch (s/s) 5dr,2.0,14800,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,68 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,39217,BMW 1 SERIES 1.5 116D SE BUSINESS 5d 114 BHP REAR PARKING …,2.0,12491,Manual,2018,BMW,1,1,0,0,0,0,0,0,0,0,67 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,16780,BMW 1 Series 118i Sport 5-door 1.5 5dr,2.0,14750,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
+116.0,ULEZ,Hatchback,1.5,Diesel,15423,BMW 1 Series 116d Sport 3-Door 1.5 3dr,2.0,14000,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,1,18 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,44000,BMW 1 Series 3.0 M140i Shadow Edition Sports Hatch Auto (s/s) …,2.0,20450,Automatic,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
+150.0,ULEZ,Hatchback,2.0,Diesel,42805,BMW 1 Series 118d M Sport 3dr [Nav] Leather Seats 2.0,2.0,14850,Manual,2018,BMW,1,1,0,1,1,0,1,0,1,0,18 reg
+134.0,ULEZ,Hatchback,1.5,Petrol,7522,BMW 1 SERIES 1.5 118I SPORT 3d 134 BHP AIR CON - ALLOYS - …,2.0,13499,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,23907,BMW 1 Series 116d M Sport Shadow Edition 5-door 1.5 5dr,2.0,17500,Manual,2018,BMW,1,1,0,1,1,0,0,0,0,0,68 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,7727,BMW 1 Series 1.5L Sport 118i 5dr,2.0,14075,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
+192.0,ULEZ,Hatchback,2.0,Petrol,14272,BMW 1 Series 120i [2.0] M Sport Shadow Ed 3dr Step Auto …,2.0,18800,Automatic,2018,BMW,1,1,0,1,1,0,0,0,0,0,67 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,11000,BMW 1 Series 118i M Sport Shadow Edition 3-door 1.5 3dr,2.0,17500,Manual,2018,BMW,1,1,0,1,1,0,0,0,0,1,67 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,18180,BMW 1 Series 116d Sport 3dr [Nav/Servotronic] Satellite …,2.0,14750,Manual,2018,BMW,1,1,0,1,0,0,1,0,0,0,68 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,15832,BMW 1 Series 1.5L Sport 118i 5dr,2.0,14350,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,68 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,19946,BMW 1 Series 1.5L Sport 118i 5dr,2.0,14950,Automatic,2018,BMW,1,1,0,1,0,0,0,0,0,0,18 reg
+114.0,ULEZ,Hatchback,1.5,Diesel,11572,BMW 1 Series 1.5L SE Business 116d 5dr,2.0,14825,Automatic,2018,BMW,1,1,0,0,0,0,0,0,0,0,68 reg
+335.0,ULEZ,Hatchback,3.0,Petrol,16252,BMW 1 Series 3L Shadow Edition M140i 5dr,2.0,21825,Manual,2018,BMW,1,1,0,0,0,0,0,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.5,Diesel,15952,BMW 1 Series 116d M Sport Shadow Edition 5dr Satellite …,2.0,18000,Manual,2018,BMW,1,1,0,1,1,0,1,0,0,0,68 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,18842,BMW 1 Series 1.5L Sport 118i 5dr,2.0,14100,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,68 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,21539,BMW 1 Series 2L Sport 120d 5dr,2.0,15625,Automatic,2018,BMW,1,1,0,1,0,0,0,0,0,0,67 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,22224,BMW 1 Series 120d Sport 5dr [Nav/Servotronic] Satellite …,2.0,15250,Manual,2018,BMW,1,1,0,1,0,0,1,0,0,0,18 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,16957,BMW 1 Series 1.5L Sport 118i 5dr,2.0,14150,Manual,2018,BMW,1,1,0,1,0,0,0,0,0,0,68 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,15273,BMW 1 Series 2L M Sport Shadow Edition 120d 5dr,2.0,19700,Automatic,2018,BMW,1,1,0,1,1,0,0,0,0,0,68 reg
+335.0,ULEZ,Hatchback,3.0,Petrol,9703,BMW 1 Series 3L Shadow Edition M140i 5dr,2.0,23725,Automatic,2018,BMW,1,1,0,0,0,0,0,0,0,0,68 reg
+335.0,ULEZ,Hatchback,3.0,Petrol,23338,BMW 1 Series 3L Shadow Edition M140i 5dr,2.0,22050,Automatic,2018,BMW,1,1,0,0,0,0,0,0,0,0,18 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,9706,BMW 1 Series 118i Sport 1.5 5dr,2.0,18500,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,0,69 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,12503,BMW 1 Series 118i Sport 1.5 5dr,2.0,18500,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,0,69 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,9125,BMW 1 Series 1.5L Sport 118i 5dr,2.0,15325,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,0,19 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,4209,BMW 1 Series 118i M Sport 1.5 5dr,2.0,25000,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
+136.0,ULEZ,Hatchback,1.5,Diesel,6137,BMW 1 Series 116d M Sport 1.5 5dr,2.0,24000,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,6471,BMW 1 Series 118i Sport 3-door 1.5 3dr,2.0,16000,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,1,19 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,11759,BMW 1 Series 2L M Sport 120d 5dr,2.0,18950,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,19 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,12153,BMW 1 Series 118i Sport 1.5 5dr,2.0,19500,Manual,2019,BMW,1,1,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,7960,BMW 1 Series M140i Shadow Edition 5-door 3.0 5dr,2.0,26250,Automatic,2019,BMW,1,1,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,7035,BMW 1 Series 118d M Sport 2.0 5dr,2.0,24750,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,7464,BMW 1 Series 1.5L M Sport 118i 3dr,2.0,19175,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,19 reg
+190.0,ULEZ,Hatchback,2.0,Diesel,28922,BMW 1 Series 2L M Sport Shadow Edition 120d 5dr,2.0,19225,Automatic,2019,BMW,1,1,0,1,1,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,3.0,Petrol,10362,BMW 1 Series M140i Shadow Edition 5-door 3.0 5dr,2.0,25000,Automatic,2019,BMW,1,1,0,0,0,0,0,0,0,0,19 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,7232,BMW 1 Series 118i M Sport 1.5 5dr,2.0,24000,Manual,2020,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Diesel,8065,BMW 1 Series 118d M Sport 2.0 5dr,2.0,25500,Automatic,2020,BMW,1,1,0,1,1,0,0,0,0,0,69 reg
+136.0,ULEZ,Hatchback,1.5,Petrol,8583,BMW 1 Series 118i M Sport 1.5 5dr,2.0,22750,Manual,2020,BMW,1,1,0,1,1,0,0,0,0,0,20 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,10,BMW 1 Series M135i xDrive 2.0 5dr,2.0,36500,Automatic,2020,BMW,1,1,0,0,0,0,0,0,0,0,70 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,2212,BMW 1 Series M135i xDrive 2.0 5dr,2.0,31000,Automatic,2020,BMW,1,1,0,0,0,0,0,0,0,0,20 reg
+188.0,ULEZ,Saloon,2.0,Diesel,35248,BMW 3 SERIES 2.0 320D M SPORT 4d 188 BHP Nav - BT - Rear PDC - …,2.0,13991,Automatic,2015,BMW,3,1,0,1,1,0,1,0,0,0,65 reg
+116.0,ULEZ,Saloon,2.0,Diesel,62000,BMW 3 Series 316d SE 2.0 4dr,2.0,9995,Manual,2015,BMW,3,1,0,0,0,0,0,0,0,0,15 reg
+150.0,ULEZ,Estate,2.0,Diesel,105173,BMW 3 SERIES 2.0 318d SE 5dr - Navigation - Full Service History,2.0,8199,Manual,2015,BMW,3,1,0,0,0,0,1,0,0,0,65 reg
+252.0,ULEZ,Saloon,2.0,Petrol,37030,BMW 3 Series 330i M Sport Saloon 2.0 4dr,2.0,17000,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,65 reg
+163.0,Non-ULEZ,Saloon,2.0,Diesel,28420,BMW 3 Series 320d EfficientDynamics Business 4dr Leather Seats …,2.0,11000,Manual,2015,BMW,3,1,0,0,0,0,0,0,1,0,15 reg
+184.0,Non-ULEZ,Saloon,2.0,Diesel,51434,BMW 3 Series 320d M Sport 4dr Step Auto [Business Media] …,2.0,13000,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,15 reg
+184.0,ULEZ,Saloon,2.0,Diesel,18582,BMW 3 Series 2L 4dr,2.0,16200,Automatic,2015,BMW,3,1,0,0,0,0,0,0,0,0,65 reg
+148.0,ULEZ,Saloon,2.0,Petrol,35000,BMW 3 Series 2.0 320i Sport (s/s) 4dr,2.0,11995,Manual,2015,BMW,3,1,0,1,0,0,0,0,0,0,65 reg
+313.0,ULEZ,Saloon,3.0,Petrol,41512,BMW 3 Series 335d xDrive M Sport 3.0 4dr,2.0,19500,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,15 reg
+184.0,ULEZ,Estate,2.0,Petrol,23395,BMW 3 Series 2L Sport 320i 5dr,2.0,13875,Manual,2015,BMW,3,1,0,1,0,0,0,0,0,0,65 reg
+258.0,ULEZ,Estate,3.0,Diesel,43470,BMW 3 Series 3L Luxury 330d 5dr,2.0,16000,Automatic,2015,BMW,3,1,0,0,0,1,0,0,0,0,65 reg
+258.0,Non-ULEZ,Estate,3.0,Diesel,17295,BMW 3 Series 3L M Sport 330d 5dr,2.0,18350,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,15 reg
+258.0,ULEZ,Saloon,3.0,Diesel,15720,BMW 3 Series 3L M Sport 330d 4dr,2.0,17250,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,15 reg
+313.0,ULEZ,Estate,3.0,Diesel,32159,BMW 3 Series 3L M Sport 335d 5dr,2.0,19925,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,65 reg
+313.0,ULEZ,Estate,3.0,Diesel,41154,BMW 3 Series 3L M Sport 335d 5dr,2.0,19000,Automatic,2015,BMW,3,1,0,1,1,0,0,0,0,0,65 reg
+148.0,ULEZ,Saloon,2.0,Diesel,84312,BMW 3 SERIES 2.0 320D XDRIVE M SPORT 4d 188 BHP NAVIGATION! …,2.0,12491,Automatic,2016,BMW,3,1,0,1,1,0,1,0,0,0,65 reg
+148.0,ULEZ,Saloon,3.0,Diesel,61400,BMW 3 Series 3.0 335d M Sport Auto xDrive (s/s) 4dr,2.0,18640,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+148.0,ULEZ,Estate,3.0,Diesel,78717,BMW 3 Series 3.0 335d M Sport Touring Auto xDrive (s/s) 5dr,2.0,16995,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
+148.0,ULEZ,Estate,2.0,Diesel,56000,BMW 3 Series 2.0 320d M Sport Touring Auto (s/s) 5dr,2.0,14600,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
+148.0,ULEZ,Estate,3.0,Diesel,42000,BMW 3 Series 3.0 335d M Sport Touring Auto xDrive (s/s) 5dr,2.0,20991,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+148.0,ULEZ,Estate,2.0,Diesel,32700,BMW 3 Series 2.0 320d M Sport Touring Auto xDrive (s/s) 5dr,2.0,18992,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,65 reg
+252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,36617,BMW 3 Series 2L Sport 330e 4dr,2.0,13725,Automatic,2016,BMW,3,1,0,1,0,0,0,0,0,0,16 reg
+148.0,ULEZ,Saloon,2.0,Diesel,37195,BMW 3 Series 2.0 320d BluePerformance M Sport Auto xDrive …,2.0,16992,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
+308.0,ULEZ,Saloon,3.0,Diesel,57983,BMW 3 SERIES 3.0 335D XDRIVE M SPORT 4d 308 BHP,2.0,17899,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+308.0,ULEZ,Saloon,3.0,Diesel,22400,BMW 3 SERIES 3.0 335D XDRIVE M SPORT 4d 308 BHP,2.0,19995,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
+148.0,ULEZ,Saloon,2.0,Diesel,112689,BMW 3 Series 2.0 320d BluePerformance ED Plus Auto (s/s) 4dr,2.0,9750,Automatic,2016,BMW,3,1,0,0,0,0,0,0,0,0,16 reg
+163.0,ULEZ,Estate,2.0,Diesel,15891,BMW 3 Series 2L ED Plus 320d 5dr,2.0,13575,Manual,2016,BMW,3,1,0,0,0,0,0,0,0,0,16 reg
+252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,33964,BMW 3 Series 330e M Sport 4dr Step Auto Leather Seats 2.0,2.0,17600,Automatic,2016,BMW,3,1,0,1,1,0,0,0,1,0,66 reg
+190.0,ULEZ,Saloon,2.0,Diesel,40250,BMW 3 Series 320d M Sport 4dr Leather Seats 2.0,2.0,13800,Manual,2016,BMW,3,1,0,1,1,0,0,0,1,0,16 reg
+190.0,ULEZ,Saloon,2.0,Diesel,35312,BMW 3 Series 320d Sport 4dr Step Auto Satellite Navigation 2.0,2.0,14000,Automatic,2016,BMW,3,1,0,1,0,0,1,0,0,0,16 reg
+313.0,ULEZ,Saloon,3.0,Diesel,23311,BMW 3 Series 3L M Sport 335d 4dr,2.0,19850,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+150.0,ULEZ,Saloon,2.0,Diesel,83975,BMW 3 Series 318d SE 4dr Step Auto Satellite Navigation 2.0,2.0,10600,Automatic,2016,BMW,3,1,0,0,0,0,1,0,0,0,16 reg
+190.0,ULEZ,Estate,2.0,Diesel,41141,BMW 3 Series 2L M Sport 320d 5dr,2.0,17150,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,16 reg
+190.0,ULEZ,Estate,2.0,Diesel,39235,BMW 3 Series 320d xDrive M Sport 5dr Step Auto Leather Seats 2.0,2.0,17750,Automatic,2016,BMW,3,1,0,1,1,0,0,0,1,0,66 reg
+258.0,ULEZ,Saloon,3.0,Diesel,14898,BMW 3 Series 330d Luxury 4dr Step Auto 3.0,2.0,16740,Automatic,2016,BMW,3,1,0,0,0,1,0,0,0,0,16 reg
+190.0,ULEZ,Saloon,2.0,Diesel,51817,BMW 3 Series 320d xDrive M Sport 4dr Satellite Navigation 2.0,2.0,14750,Manual,2016,BMW,3,1,0,1,1,0,1,0,0,0,16 reg
+190.0,ULEZ,Estate,2.0,Diesel,20795,BMW 3 Series 320d xDrive M Sport 5dr Step Auto Leather Seats 2.0,2.0,19000,Automatic,2016,BMW,3,1,0,1,1,0,0,0,1,0,66 reg
+190.0,ULEZ,Estate,2.0,Diesel,39464,BMW 3 Series 2L M Sport 320d 5dr,2.0,17875,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+313.0,ULEZ,Estate,3.0,Diesel,37797,BMW 3 Series 3L M Sport 335d 5dr,2.0,20675,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+258.0,ULEZ,Estate,3.0,Diesel,45770,BMW 3 Series 3L M Sport 330d 5dr,2.0,17425,Automatic,2016,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+190.0,ULEZ,Saloon,2.0,Diesel,28148,BMW 3 SERIES 320D M SPORT 2.0 4dr,2.0,15295,Manual,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+188.0,ULEZ,Saloon,2.0,Diesel,79470,BMW 3 SERIES 2.0 320D M SPORT 4d 188 BHP CLEARANCE SALE - GRAB …,2.0,12499,Manual,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,2.0,Diesel,36176,BMW 3 SERIES 2.0 318D M SPORT 4d 148 BHP SAT NAV,2.0,14690,Manual,2017,BMW,3,1,0,1,1,0,1,0,0,0,67 reg
+190.0,ULEZ,Estate,2.0,Diesel,32977,BMW 3 Series 320d M Sport Touring 2.0 5dr,2.0,19250,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+190.0,ULEZ,Saloon,2.0,Diesel,22843,BMW 3 Series 320d M Sport Saloon 2.0 4dr,2.0,19000,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+181.0,ULEZ,Saloon,2.0,Petrol,34274,BMW 3 SERIES 2.0 320I SE 4d 181 BHP AIR CON - ALLOYS - …,2.0,12999,Manual,2017,BMW,3,1,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Saloon,2.0,Petrol,14463,BMW 3 Series 2.0 320i Sport Auto (s/s) 4dr,2.0,14980,Automatic,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
+136.0,ULEZ,Estate,1.5,Petrol,37432,BMW 3 Series 318i Sport 5dr 1.5,2.0,12990,Manual,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Estate,3.0,Diesel,26900,BMW 3 Series 3.0 335d M Sport Touring Auto xDrive (s/s) 5dr,2.0,27492,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+190.0,ULEZ,Saloon,2.0,Diesel,39553,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,16125,Manual,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+116.0,ULEZ,Saloon,2.0,Diesel,20970,BMW 3 Series 316d SE 4dr Step Auto Leather Seats 2.0,2.0,14500,Automatic,2017,BMW,3,1,0,0,0,0,0,0,1,0,67 reg
+181.0,ULEZ,Saloon,2.0,Petrol,34689,BMW 3 SERIES 2.0 320I XDRIVE M SPORT 4d 181 BHP BUSINESS NAV -,2.0,15000,Manual,2017,BMW,3,1,0,1,1,0,1,0,0,0,17 reg
+136.0,ULEZ,Saloon,1.5,Petrol,25684,BMW 3 Series 1.5L Sport 318i 4dr,2.0,12800,Manual,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
+163.0,ULEZ,Saloon,2.0,Diesel,25309,BMW 3 Series 2L ED Plus BluePerformance 320d 4dr,2.0,14575,Automatic,2017,BMW,3,1,0,0,0,0,0,0,0,0,17 reg
+190.0,ULEZ,Saloon,2.0,Diesel,12808,BMW 3 Series 2L SE BluePerformance 320d 4dr,2.0,14175,Manual,2017,BMW,3,1,0,0,0,0,0,0,0,0,67 reg
+190.0,ULEZ,Saloon,2.0,Diesel,32286,BMW 3 Series 320d xDrive M Sport 4dr Step Auto Leather Seats 2.0,2.0,18000,Automatic,2017,BMW,3,1,0,1,1,0,0,0,1,0,17 reg
+192.0,ULEZ,Saloon,2.0,Petrol,15928,BMW 3 Series 320i M Sport Shadow Edition Saloon 2.0 4dr,2.0,20750,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+136.0,ULEZ,Estate,1.5,Petrol,14928,BMW 3 SERIES 318i Sport 5dr 1.5,2.0,14999,Manual,2017,BMW,3,1,0,1,0,0,0,0,0,0,67 reg
+252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,124395,BMW 3 Series 330e M Sport 4dr Step Auto Leather Seats 2.0,2.0,11850,Automatic,2017,BMW,3,1,0,1,1,0,0,0,1,0,17 reg
+313.0,ULEZ,Saloon,3.0,Diesel,38130,BMW 3 Series 335d xDrive M Sport Saloon 3.0 4dr,2.0,20000,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+163.0,ULEZ,Saloon,2.0,Diesel,29713,BMW 3 Series 2L ED Plus BluePerformance 320d 4dr,2.0,13425,Manual,2017,BMW,3,1,0,0,0,0,0,0,0,0,67 reg
+313.0,ULEZ,Saloon,3.0,Diesel,60586,BMW 3 Series 3L M Sport 335d 4dr,2.0,16150,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,32586,BMW 3 Series 2L M Sport 330e 4dr,2.0,16875,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+313.0,ULEZ,Saloon,3.0,Diesel,29624,BMW 3 Series 335d xDrive M Sport Saloon 3.0 4dr,2.0,20500,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+190.0,ULEZ,Saloon,2.0,Diesel,40321,BMW 3 Series 2L Sport BluePerformance 320d 4dr,2.0,14400,Automatic,2017,BMW,3,1,0,1,0,0,0,0,0,0,67 reg
+150.0,ULEZ,Saloon,2.0,Diesel,36679,BMW 3 Series 318d Sport 4dr Satellite Navigation 2.0,2.0,14000,Manual,2017,BMW,3,1,0,1,0,0,1,0,0,0,17 reg
+136.0,ULEZ,Estate,1.5,Petrol,75802,BMW 3 Series 318i Sport 5dr Step Auto Satellite Navigation 1.5,2.0,13000,Automatic,2017,BMW,3,1,0,1,0,0,1,0,0,0,67 reg
+258.0,ULEZ,Saloon,3.0,Diesel,24833,BMW 3 Series 3L M Sport 330d 4dr,2.0,17750,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+258.0,ULEZ,Saloon,3.0,Diesel,13747,BMW 3 Series 3L M Sport 330d 4dr,2.0,21275,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+313.0,ULEZ,Saloon,3.0,Diesel,43049,BMW 3 Series 3L M Sport 335d 4dr,2.0,18575,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+258.0,ULEZ,Saloon,3.0,Diesel,3699,BMW 3 Series 3L M Sport 330d 4dr,2.0,20050,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+313.0,ULEZ,Saloon,3.0,Diesel,47373,BMW 3 Series 3L M Sport 335d 4dr,2.0,19375,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+258.0,ULEZ,Saloon,3.0,Diesel,10552,BMW 3 Series 3L M Sport 330d 4dr,2.0,19750,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+313.0,ULEZ,Saloon,3.0,Diesel,19789,BMW 3 Series 3L M Sport 335d 4dr,2.0,21450,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+313.0,ULEZ,Saloon,3.0,Diesel,35526,BMW 3 Series 3L M Sport 335d 4dr,2.0,20825,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+258.0,ULEZ,Saloon,3.0,Diesel,22713,BMW 3 Series 3L M Sport 330d 4dr,2.0,17975,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+136.0,ULEZ,Estate,1.5,Petrol,25886,BMW 3 Series 1.5L Sport 318i 5dr,2.0,15000,Automatic,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
+313.0,ULEZ,Saloon,3.0,Diesel,27506,BMW 3 Series 3L M Sport 335d 4dr,2.0,20325,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+136.0,ULEZ,Estate,1.5,Petrol,12636,BMW 3 Series 1.5L Sport 318i 5dr,2.0,16025,Automatic,2017,BMW,3,1,0,1,0,0,0,0,0,0,17 reg
+313.0,ULEZ,Saloon,3.0,Diesel,20714,BMW 3 Series 3L M Sport 335d 4dr,2.0,22350,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+313.0,ULEZ,Estate,3.0,Diesel,40955,BMW 3 Series 3L M Sport 335d 5dr,2.0,21025,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+190.0,ULEZ,Saloon,2.0,Diesel,19876,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,18225,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+313.0,ULEZ,Saloon,3.0,Diesel,20231,BMW 3 Series 3L M Sport 335d 4dr,2.0,22525,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+313.0,ULEZ,Saloon,3.0,Diesel,29183,BMW 3 Series 3L M Sport 335d 4dr,2.0,21700,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+313.0,ULEZ,Saloon,3.0,Diesel,27374,BMW 3 Series 3L M Sport 335d 4dr,2.0,21000,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,17 reg
+258.0,ULEZ,Saloon,3.0,Diesel,16465,BMW 3 Series 3L M Sport 330d 4dr,2.0,18725,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,66 reg
+313.0,ULEZ,Saloon,3.0,Diesel,14892,BMW 3 Series 3L M Sport 335d 4dr,2.0,22925,Automatic,2017,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+188.0,ULEZ,Saloon,2.0,Diesel,16123,"BMW 3 SERIES 2.0 320D M SPORT 4d 188 BHP, FULL BLACK LEATHER, …",2.0,18880,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
+136.0,ULEZ,Saloon,1.5,Petrol,25275,BMW 3 SERIES 318i Sport 4dr Step Auto 1.5,2.0,13999,Automatic,2018,BMW,3,1,0,1,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Estate,2.0,Diesel,30609,BMW 3 Series 2.0 320d SE Touring Auto (s/s) 5dr,2.0,14890,Automatic,2018,BMW,3,1,0,0,0,0,0,0,0,0,18 reg
+192.0,ULEZ,Saloon,2.0,Petrol,17050,BMW 3 Series 320i M Sport Shadow Edition Saloon 2.0 4dr,2.0,19750,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+192.0,ULEZ,Saloon,2.0,Petrol,11623,BMW 3 Series 320i M Sport Shadow Edition Saloon 2.0 4dr,2.0,21500,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+190.0,ULEZ,Saloon,2.0,Diesel,25209,BMW 3 Series 320d M Sport Shadow Edition Saloon 2.0 4dr,2.0,21750,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
+190.0,ULEZ,Saloon,2.0,Diesel,34869,BMW 3 Series 2L M Sport Shadow Edition BluePerformance 320d 4dr,2.0,18450,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+184.0,ULEZ,Saloon,2.0,Petrol,15067,BMW 3 Series 2L M Sport 320i 4dr,2.0,17900,Manual,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
+190.0,ULEZ,Saloon,2.0,Diesel,31775,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,16450,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,19436,BMW 3 Series 2L Sport 330e 4dr,2.0,17200,Automatic,2018,BMW,3,1,0,1,0,0,0,0,0,0,18 reg
+190.0,ULEZ,Saloon,2.0,Diesel,16069,BMW 3 Series 320d M Sport 4dr Leather Seats 2.0,2.0,18300,Manual,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
+190.0,ULEZ,Saloon,2.0,Diesel,21318,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,18925,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
+184.0,ULEZ,Saloon,2.0,Petrol,27064,BMW 3 Series 2L M Sport 320i 4dr,2.0,17750,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+190.0,ULEZ,Saloon,2.0,Diesel,16268,BMW 3 Series 320d M Sport Saloon 2.0 4dr,2.0,19500,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
+184.0,ULEZ,Saloon,2.0,Petrol,33438,BMW 3 Series 2L M Sport 320i 4dr,2.0,17625,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+258.0,ULEZ,Estate,3.0,Diesel,35103,BMW 3 Series 3L M Sport 330d 5dr,2.0,20525,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+190.0,ULEZ,Saloon,2.0,Diesel,36486,BMW 3 Series 2L M Sport Shadow Edition BluePerformance 320d 4dr,2.0,18600,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+190.0,ULEZ,Saloon,2.0,Diesel,27749,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,17850,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+190.0,ULEZ,Saloon,2.0,Diesel,35873,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,17600,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
+190.0,ULEZ,Saloon,2.0,Diesel,24115,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,18725,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+313.0,ULEZ,Saloon,3.0,Diesel,37800,BMW 3 Series 3L M Sport 335d 4dr,2.0,20575,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+258.0,ULEZ,Saloon,3.0,Diesel,57925,BMW 3 Series 330d xDrive M Sport 4dr Step Auto Leather Seats 3.0,2.0,19000,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
+190.0,ULEZ,Estate,2.0,Diesel,33060,BMW 3 Series 320d M Sport 5dr Step Auto Leather Seats 2.0,2.0,19250,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
+190.0,ULEZ,Saloon,2.0,Diesel,15242,BMW 3 Series 320d M Sport 4dr Step Auto Leather Seats 2.0,2.0,19000,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
+306.0,ULEZ,Saloon,3.0,Diesel,36878,BMW 3 Series 3L M Sport Shadow Edition 330d 4dr,2.0,21950,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+252.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,29822,BMW 3 Series 330e M Sport 4dr Step Auto Leather Seats 2.0,2.0,20000,Automatic,2018,BMW,3,1,0,1,1,0,0,0,1,0,18 reg
+190.0,ULEZ,Saloon,2.0,Diesel,31512,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,17875,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,68 reg
+190.0,ULEZ,Saloon,2.0,Diesel,31687,BMW 3 Series 2L M Sport BluePerformance 320d 4dr,2.0,17925,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,67 reg
+190.0,ULEZ,Estate,2.0,Diesel,30990,BMW 3 Series 2L M Sport 320d 5dr,2.0,18625,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+190.0,ULEZ,Estate,2.0,Diesel,28883,BMW 3 Series 2L M Sport 320d 5dr,2.0,18850,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+190.0,ULEZ,Estate,2.0,Diesel,25555,BMW 3 Series 2L M Sport 320d 5dr,2.0,19225,Automatic,2018,BMW,3,1,0,1,1,0,0,0,0,0,18 reg
+148.0,ULEZ,Saloon,2.0,Diesel,5225,BMW 3 Series 318d M Sport Saloon 2.0 4dr,2.0,27000,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
+190.0,ULEZ,Saloon,2.0,Diesel,11118,BMW 3 Series 320d xDrive M Sport Saloon 2.0 4dr,2.0,31000,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
+192.0,ULEZ,Saloon,2.0,Petrol,2942,BMW 3 Series 320i xDrive M Sport Saloon 2.0 4dr,2.0,31500,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
+184.0,ULEZ,Saloon,2.0,Hybrid – Petrol/Electric Plug-in,3933,BMW 3 Series 330e SE Pro Saloon 2.0 4dr,2.0,30500,Automatic,2019,BMW,3,1,0,0,0,0,0,0,0,0,69 reg
+192.0,ULEZ,Estate,2.0,Petrol,11717,BMW 3 Series 2L M Sport Shadow Edition 320i 5dr,2.0,23675,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
+148.0,ULEZ,Saloon,2.0,Diesel,4269,BMW 3 Series 2.0 320d M Sport Saloon 4dr Diesel Auto xDrive …,2.0,31750,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
+190.0,ULEZ,Estate,2.0,Diesel,4164,BMW 3 Series 320d M Sport Touring 2.0 5dr,2.0,31500,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
+184.0,ULEZ,Saloon,2.0,Petrol,10933,BMW 3 SERIES 330i M Sport 4dr Step Auto 2.0,2.0,25999,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
+190.0,ULEZ,Estate,2.0,Diesel,9833,BMW 3 Series 320d M Sport Touring 2.0 5dr,2.0,32000,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
+190.0,ULEZ,Saloon,2.0,Diesel,18980,BMW 3 Series 320d xDrive M Sport Saloon 2.0 4dr,2.0,30500,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
+192.0,ULEZ,Saloon,2.0,Petrol,11494,BMW 3 Series 2L M Sport 320i 4dr,2.0,26375,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
+184.0,ULEZ,Saloon,2.0,Petrol,7728,BMW 3 Series 2L M Sport 320i 4dr,2.0,25775,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,19 reg
+192.0,ULEZ,Saloon,2.0,Petrol,6107,BMW 3 Series 2L M Sport 320i 4dr,2.0,26700,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
+184.0,ULEZ,Saloon,2.0,Petrol,7735,BMW 3 Series 2L M Sport 330i 4dr,2.0,28950,Automatic,2019,BMW,3,1,0,1,1,0,0,0,0,0,69 reg
+192.0,Non-ULEZ,Saloon,2.0,Petrol,6512,BMW 3 Series 320i M Sport Saloon 2.0 4dr,2.0,30000,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,20 reg
+148.0,ULEZ,Estate,3.0,Hybrid – Diesel/Electric,501,BMW 3 Series M340d xDrive Touring 3.0 5dr,2.0,53000,Automatic,2020,BMW,3,1,0,0,0,0,0,0,0,0,70 reg
+192.0,ULEZ,Saloon,2.0,Petrol,3121,BMW 3 Series 320i M Sport Saloon 2.0 4dr,2.0,32500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
+190.0,ULEZ,Estate,2.0,Diesel,243,BMW 3 Series 320d M Sport Touring 2.0 5dr,2.0,38250,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
+190.0,ULEZ,Saloon,2.0,Diesel,1032,BMW 3 Series 320d M Sport Saloon 2.0 4dr,2.0,34500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,20 reg
+192.0,ULEZ,Saloon,2.0,Petrol,3512,BMW 3 Series 320i M Sport Saloon 2.0 4dr,2.0,32500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
+192.0,ULEZ,Estate,2.0,Hybrid – Petrol/Electric Plug-in,1121,BMW 3 Series 330e M Sport Touring 2.0 5dr,2.0,44500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
+192.0,ULEZ,Estate,2.0,Hybrid – Petrol/Electric Plug-in,1121,BMW 3 Series 330e M Sport Touring 2.0 5dr,2.0,44500,Automatic,2020,BMW,3,1,0,1,1,0,0,0,0,0,70 reg
+134.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,39282,Lexus CT 200h 1.8L Sport 200h 5dr,2.0,12800,Automatic,2016,Lexus,CT,0,0,1,0,0,0,0,0,0,16 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,17442,Lexus CT Hatchback 200h Executive Edition Navigation & Rear …,2.0,13995,Automatic,2016,Lexus,CT,0,0,0,0,0,1,0,0,0,66 reg
+134.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,22136,Lexus CT 200h 1.8L Luxury 200h 5dr,2.0,15950,Automatic,2017,Lexus,CT,0,0,0,0,1,0,0,0,0,67 reg
+134.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,34799,Lexus CT 200h 1.8L Advance 200h 5dr,2.0,14300,Automatic,2017,Lexus,CT,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10561,Lexus CT Hatchback 200h SE Plus Pack Navigation Rear Camera & …,2.0,16995,Automatic,2018,Lexus,CT,1,0,0,0,0,1,0,0,0,18 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,15968,Lexus CT Hatchback 200h Luxury Premium Navigation Full Leather …,2.0,18495,Automatic,2018,Lexus,CT,0,0,0,0,1,1,0,1,0,68 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,3672,Lexus CT Sports Hatchback 200h F-Sport Premium Navigation Pack …,2.0,19995,Automatic,2019,Lexus,CT,0,0,1,0,0,1,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,4125,Lexus CT Hatchback 200h Premium Pack Navigation Rear Camera & …,2.0,18995,Automatic,2019,Lexus,CT,0,0,0,0,0,1,0,0,0,19 reg
+134.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,6792,Lexus CT 200h 1.8L F Sport 200h 5dr,2.0,21200,Automatic,2019,Lexus,CT,0,0,1,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10,Lexus CT Hatchback 200h 200h Navigation Rear Camera Dashcam & …,2.0,21495,Automatic,2020,Lexus,CT,0,0,0,0,0,1,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10,Lexus CT Hatchback 200h Navigation Rear Camera Dashcam & LSS+ …,2.0,21495,Automatic,2020,Lexus,CT,0,0,0,0,0,1,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10,Lexus CT Hatchback 200h Navigation Rear Camera Dashcam & LSS+ …,2.0,21995,Automatic,2020,Lexus,CT,0,0,0,0,0,1,0,0,0,70 reg
+148.0,ULEZ,Hatchback,1.8,Hybrid – Petrol/Electric,10,Lexus Cthatchback 200h Navigation Rear Camera Dashcam& LSS+ …,2.0,21995,Automatic,2020,Lexus,Cthatchback,0,0,0,0,0,1,0,0,0,70 reg
+148.0,ULEZ,Saloon,2.2,Diesel,75282,Mazda 3 2.2 D SPORT NAV 4d 148 BHP AIR CON - ALLOYS - …,2.0,7500,Manual,2016,Mazda,3,0,0,1,0,0,1,0,0,0,16 reg
+148.0,ULEZ,Saloon,2.2,Diesel,46084,Mazda3 2.2 SKYACTIV-D Sport Nav (s/s) 4dr,2.0,10780,Manual,2017,Mazda3,2.2,0,0,1,0,0,1,0,0,0,67 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,19616,Mazda3 2.0 SE-L Nav 5dr Satellite Navigation,2.0,11300,Manual,2017,Mazda3,2.0,1,0,0,0,0,1,0,0,0,17 reg
+148.0,ULEZ,Hatchback,2.2,Diesel,14143,Mazda3 2.2L Sport Nav SKYACTIV-D 5dr,2.0,13850,Automatic,2017,Mazda3,2.2L,0,0,1,0,0,1,0,0,0,67 reg
+119.0,ULEZ,Hatchback,2.0,Petrol,30643,Mazda3 2L Sport Nav SKYACTIV-G 5dr,2.0,11750,Manual,2017,Mazda3,2L,0,0,1,0,0,1,0,0,0,67 reg
+119.0,ULEZ,Hatchback,2.0,Petrol,16118,Mazda3 2L Sport Nav SKYACTIV-G 5dr,2.0,12200,Manual,2017,Mazda3,2L,0,0,1,0,0,1,0,0,0,17 reg
+119.0,ULEZ,Hatchback,2.0,Petrol,15313,Mazda3 2L Sport Nav SKYACTIV-G 5dr,2.0,14000,Automatic,2017,Mazda3,2L,0,0,1,0,0,1,0,0,0,67 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,36250,Mazda 3 2.0 Sport Nav 5dr,2.0,11895,Manual,2017,Mazda,3,0,0,1,0,0,1,0,0,0,67 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,5424,Mazda3 2.0 165 Sport Nav 5dr Leather Seats,2.0,14500,Manual,2018,Mazda3,2.0,1,0,1,0,0,1,0,1,0,18 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,41930,Mazda 3 2.0 Sport Nav 5dr,2.0,11490,Manual,2018,Mazda,3,0,0,1,0,0,1,0,0,0,18 reg
+119.0,ULEZ,Hatchback,2.0,Petrol,21546,Mazda3 2L Sport Nav SKYACTIV-G 5dr,2.0,12925,Manual,2018,Mazda3,2L,0,0,1,0,0,1,0,0,0,18 reg
+163.0,ULEZ,Hatchback,2.0,Petrol,16453,Mazda3 2L Sport Nav SKYACTIV-G 5dr,2.0,13500,Manual,2018,Mazda3,2L,0,0,1,0,0,1,0,0,0,18 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,2872,Mazda 3 2.0 Skyactiv-X MHEV Sport 5dr Auto,2.0,18999,Automatic,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,1500,Mazda 3 2.0 Skyactiv-X MHEV GT Sport Tech 5dr,2.0,23990,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,5071,Mazda 3 2.0 Skyactiv-G MHEV GT Sport Tech 5dr,2.0,21990,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,3890,Mazda 3 2.0 Skyactiv-G MHEV SE-L 5dr,2.0,16995,Manual,2019,Mazda,3,1,0,0,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,10000,Mazda 3 2.0 Skyactiv-G MHEV Sport Lux 5dr,2.0,18295,Manual,2019,Mazda,3,0,0,1,0,1,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,5000,Mazda 3 2.0 Skyactiv-X MHEV GT Sport Tech 5dr,2.0,21495,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,5560,Mazda 3 2.0 Skyactiv-G MHEV GT Sport 5dr,2.0,19495,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Saloon,2.0,Petrol,9000,Mazda 3 2.0 Skyactiv-X MHEV GT Sport Tech 4dr,2.0,20495,Manual,2019,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,4641,Mazda 3 2.0 Skyactiv-G MHEV GT Sport Tech 5dr,2.0,23990,Manual,2020,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,13000,Mazda 3 2.0 Skyactiv-G MHEV GT Sport Tech 5dr,2.0,19495,Manual,2020,Mazda,3,0,0,1,0,0,0,0,0,0,69 reg
+148.0,ULEZ,Hatchback,2.0,Petrol,3000,Mazda 3 2.0 Skyactiv-G MHEV Sport Lux 5dr,2.0,19495,Manual,2020,Mazda,3,0,0,1,0,1,0,0,0,0,20 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,23500,Fiat 500 1.2 Ron Arad Edition (s/s) 3dr,3.0,3995,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,15 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,58473,Fiat 500 1.2 Lounge 3dr,2.0,5195,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,65 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,43004,Fiat 500 1.2 LOUNGE 3d 69 BHP BLUETOOTH,2.0,5990,Manual,2015,Fiat,500,0,0,0,0,0,0,1,0,0,65 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,26549,Fiat 500 1.2 S 3dr Bluetooth,2.0,6300,Manual,2015,Fiat,500,0,0,0,0,0,0,1,0,0,15 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,30002,Fiat 500 1.2 Lounge 3dr Satellite Navigation,2.0,6900,Manual,2015,Fiat,500,0,0,0,0,0,1,0,0,0,65 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,48680,Fiat 500 POP 1.3 3dr,2.0,4995,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,15 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,31809,Fiat 500 1.2L Lounge 8V 3dr,2.0,6200,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,65 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,30915,Fiat 500 1.2 S (s/s) 3dr,4.0,5799,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,15 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,55000,Fiat 500 1.2 S (s/s) 3dr,3.0,4999,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,15 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,40000,Fiat 500 1.2 8V Lounge (s/s) 3dr,2.0,5800,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,65 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,65000,Fiat 500 1.2 8V Lounge (s/s) 3dr,2.0,5495,Manual,2015,Fiat,500,0,0,0,0,0,0,0,0,0,65 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,26429,Fiat 500 1.2 LOUNGE 3d 69 BHP,2.0,6790,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,16 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,12100,Fiat 500 1.2 8V Lounge (s/s) 3dr,2.0,7495,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,16 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,10901,Fiat 500 1.2 8V ECO Pop Star (s/s) 3dr,2.0,6490,Manual,2016,Fiat,500,0,1,0,0,0,0,0,0,0,16 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,28132,Fiat 500 1.2 Lounge 3dr Satellite Navigation,2.0,6500,Manual,2016,Fiat,500,0,0,0,0,0,1,0,0,0,16 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,49346,Fiat 500 1.2 8V ECO Lounge (s/s) 3dr,2.0,5999,Manual,2016,Fiat,500,0,1,0,0,0,0,0,0,0,66 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,26791,Fiat 500 1.2 LOUNGE 3d 69 BHP,2.0,6699,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,16 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,26451,Fiat 500 3dr Hat 1.2 69hp Lounge,2.0,7490,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,66 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,30904,Fiat 500 1.2 ECO POP STAR 3d 69 BHP,2.0,6090,Manual,2016,Fiat,500,0,1,0,0,0,0,0,0,0,16 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,28647,Fiat 500 1.2 8V ECO Pop Star (s/s) 3dr,2.0,5999,Manual,2016,Fiat,500,0,1,0,0,0,0,0,0,0,16 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,18263,Fiat 500 1.2 8V Pop (s/s) 3dr,2.0,5650,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,16 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,25200,Fiat 500 LOUNGE 1.3 3dr,2.0,6995,Manual,2016,Fiat,500,0,0,0,0,0,0,0,0,0,66 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,11706,Fiat 500 1.2 S 3dr Satellite Navigation,2.0,7850,Manual,2016,Fiat,500,0,0,0,0,0,1,0,0,0,66 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,13670,Fiat 500 1.2 MIRROR 3d 69 BHP,2.0,6490,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,18304,Fiat 500 1.2 POP 3d 69 BHP,2.0,5995,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,64000,Fiat 500 1.2 8V S (s/s) 3dr,2.0,5995,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,15826,Fiat 500 1.2 Lounge 3dr,2.0,7290,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,25268,Fiat 500 3dr Hat 1.2 69hp Lounge,2.0,7990,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,13904,Fiat 500 3dr Hat 1.2 69hp Lounge,2.0,7990,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,21799,Fiat 500 1.2 Lounge 3dr Bluetooth,2.0,7000,Manual,2017,Fiat,500,0,0,0,0,0,0,1,0,0,17 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,27409,Fiat 500 1.2 Pop Star 3dr Alloy Wheels,2.0,6250,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,14981,Fiat 500 1.2 8V Lounge (s/s) 3dr,2.0,7398,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,20022,Fiat 500 1.2 POP 3d 69 BHP,2.0,6599,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,36076,Fiat 500 3dr Hat 1.2 69hp Lounge,2.0,7290,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,10051,Fiat 500 3dr Hat 1.2 69hp Lounge,2.0,8190,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,35349,Fiat 500 1.2L Lounge 8V 3dr,2.0,7050,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,21999,Fiat 500 1.2 8V S (s/s) 3dr,2.0,7991,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,66 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,17767,Fiat 500 3dr Hat 1.2 69hp Lounge,2.0,7990,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,12053,Fiat 500 1.2L Mirror 8V 3dr,2.0,7425,Manual,2017,Fiat,500,0,0,0,0,0,0,0,0,0,17 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,20950,Fiat 500 1.2 Lounge 3dr,2.0,7890,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,19399,Fiat 500 3dr Hat 1.2 69hp Anniversario,2.0,9490,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,14409,Fiat 500 1.2 LOUNGE 3d 69 BHP,2.0,8490,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,68 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,11218,Fiat 500 1.2 Lounge 3dr Bluetooth,2.0,8500,Manual,2018,Fiat,500,0,0,0,0,0,0,1,0,0,68 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,28291,Fiat 500 1.2 Lounge 3dr Bluetooth,2.0,8000,Manual,2018,Fiat,500,0,0,0,0,0,0,1,0,0,18 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,9470,Fiat 500 3dr Hat 1.2 69hp Lounge Dualogic,2.0,9990,Automatic,2018,Fiat,500,0,0,0,0,0,0,0,0,0,18 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,21945,Fiat 500 1.2L Lounge 8V 3dr,2.0,7525,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,67 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,4376,Fiat 500 3dr Hat 1.2 69hp Lounge Dualogic,2.0,10990,Automatic,2018,Fiat,500,0,0,0,0,0,0,0,0,0,68 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,32030,Fiat 500 1.2L Lounge 8V 3dr,2.0,7325,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,18 reg
+69.0,ULEZ,Hatchback,1.2,Petrol,12709,Fiat 500 1.2L Lounge 8V 3dr,2.0,8000,Manual,2018,Fiat,500,0,0,0,0,0,0,0,0,0,18 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,4927,Fiat 500 LOUNGE DUALOGIC 1.3 3dr,2.0,10495,Automatic,2018,Fiat,500,0,0,0,0,0,0,0,0,0,68 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,30285,Fiat 500 1.2L S 8V 3dr,2.0,8150,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,19 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,23268,Fiat 500 1.2L S 8V 3dr,2.0,8400,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,19 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,2081,Fiat 500 1.2L Lounge 8V 3dr,2.0,9250,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,15076,Fiat 500 1.2L S 8V 3dr,2.0,8675,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,19 reg
+148.0,ULEZ,Hatchback,1.2,Petrol,983,Fiat 500 1.2 8V Star Dualogic (s/s) 3dr,2.0,11999,Automatic,2019,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,4571,Fiat 500 1.2 Lounge 3dr Dualogic Bluetooth,2.0,11500,Automatic,2019,Fiat,500,0,0,0,0,0,0,1,0,0,19 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,6819,Fiat 500 3dr Hat 1.2 69hp Lounge,2.0,8990,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,19 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,3616,Fiat 500 1.2 8V Lounge (s/s) 3dr,2.0,9400,Manual,2019,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+148.0,Non-ULEZ,Hatchback,1.2,Petrol,1459,Fiat 500 Serie 8 Mild Hybrid Launch Edition 1.3 3dr,2.0,12490,Manual,2020,Fiat,500,1,0,0,0,0,0,0,0,0,69 reg
+68.0,ULEZ,Hatchback,1.0,Petrol,1245,Fiat 500 3dr Hat Mhev 1.0 70hp Lounge,2.0,11990,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,20 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,4104,Fiat 500 1.2 Lounge 3dr,2.0,9299,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,2753,Fiat 500 1.2 Lounge 3dr,2.0,9299,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,7092,Fiat 500 1.2L Lounge 8V 3dr,2.0,9200,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,6044,Fiat 500 1.2L Lounge 8V 3dr,2.0,9200,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,5030,Fiat 500 1.2L Lounge 8V 3dr,2.0,9300,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
+68.0,ULEZ,Hatchback,1.2,Petrol,3106,Fiat 500 1.2L Lounge 8V 3dr,2.0,9375,Manual,2020,Fiat,500,0,0,0,0,0,0,0,0,0,69 reg
