@@ -49,4 +49,4 @@ def generate_car_price(target=target_model):
 results = generate_car_price(target_model)
 
 # Save scrapped data as csv
-pd.DataFrame(results).to_csv("autotrader_prices_raw1.csv", index = False)
+pd.DataFrame(results).to_csv("autotrader_prices_raw.csv", index = False)
