@@ -574,7 +574,7 @@ BHP,ULEZ,body,engine,fuel,mileage,name,owners,price,transmission,year,make,model
 227.0,ULEZ,Hatchback,2.0,Petrol,10423,Volkswagen Golf 2L GTI TSI 5dr,2.0,21300,Manual,2018,Volkswagen,Golf,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,68 reg,2
 227.0,ULEZ,Hatchback,2.0,Petrol,15537,Volkswagen Golf 2L GTI TSI 5dr,2.0,20900,Manual,2018,Volkswagen,Golf,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,68 reg,2
 286.0,ULEZ,Hatchback,2.0,Petrol,12260,Volkswagen Golf 2.0 GTI TCR DSG 5d 286 BHP HUGE SPEC - See ??,2.0,26991,Automatic,2019,Volkswagen,Golf,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,19 reg,1
-114.0,Non-ULEZ,Estate,1.6,Diesel,42995,Volkswagen Golf 1.6 MATCH TDI DSG 5d 114 BHP NAVIGATION! APP ??,2.0,12991,,2019,Volkswagen,Golf,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,19 reg,1
+114.0,Non-ULEZ,Estate,1.6,Diesel,42995,Volkswagen Golf 1.6 MATCH TDI DSG 5d 114 BHP NAVIGATION! APP ??,2.0,12991,Manual,2019,Volkswagen,Golf,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,19 reg,1
 148.0,ULEZ,Hatchback,2.0,Diesel,8059,Volkswagen Golf 2.0 TDI 184 GTD 5dr DSG,2.0,24490,Automatic,2019,Volkswagen,Golf,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,69 reg,1
 148.0,ULEZ,Hatchback,1.0,Petrol,5746,Volkswagen Golf Sv 1.0 TSI 110 S 5dr,2.0,13990,Manual,2019,Volkswagen,Golf,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69 reg,1
 148.0,ULEZ,Hatchback,2.0,Petrol,11736,Volkswagen Golf 2.0 TSI 245 GTI Performance 5dr DSG,2.0,26990,Automatic,2019,Volkswagen,Golf,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,69 reg,1
