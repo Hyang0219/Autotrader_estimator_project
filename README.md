@@ -1,18 +1,18 @@
 # Autotrader Estimator
 
 ## Project Overview
-* A tool to estimate resale price of the second hand cars to help interested buyer/seller decide/negociate their deal.
+* A tool to estimate resale price **(MAE ~ £1k)** of the second hand cars to help interested buyer/seller decide/negociate their deal.
 * Scrapped over 1000 car sale advertisement from year 2017 to 2020 on autotrader.co.uk using python
 * Engineered features from the text of each car sale description and carried out exploratory analysis on the extended features.
 * Optimized Linear, Lasso and RandomForestRegressor using GridSearchCV to reach the best model.
 * Build a client facing API using flask
 
 ## Code and Resources Used
-**Python Version**: 3.7
-**Packages**: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
-**For Web Framework Requirements**: `pip install -r requirements.txt`
-**Scraper Github**:https://github.com/suhailidrees/autotrader_scraper
-**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+* **Python Version**: 3.7
+* **Packages**: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+* **For Web Framework Requirements**: `pip install -r requirements.txt`
+* **Scraper Github**:https://github.com/suhailidrees/autotrader_scraper
+* **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ## Web Scrapping
 Tweaked the web scraper github repo (above) to scrape 1233 car sale postings from autotrader.co.uk at below settings:
@@ -52,3 +52,4 @@ The raw data are preprocessed following the steps below:
  * Price
    * Parsed numeric data out of price
    
+## EDA
