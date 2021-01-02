@@ -65,9 +65,12 @@ Below are a few highlightes by assessing the distribution of the data and the va
 
 ![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/body.png "bar chats")
 
-* Year-on-year prices of different car makes
+* Year-by-year prices of different car makes
 
 ![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/make-year.PNG "make-year prices")
+* Year-by-year number of sales for different car makes
+
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/car-sales.png "car-number of sales")
 * Price comparison between different types of fuel and transimission
 
 ![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/fuel-transimission.PNG "fuel-transimission prices")
