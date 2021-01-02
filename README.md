@@ -1,7 +1,7 @@
 # Autotrader Estimator
 
 ## Project Overview
-* A tool to estimate resale price **(MAE ~ £1k)** of the second hand cars to help interested buyer/seller decide/negociate their deal.
+* A tool to estimate resale price **(MAE ~ £1k)** of second hand cars to help interested buyer/seller decide/negociate their deal.
 * Scrapped over 1000 car sale advertisement from year 2017 to 2020 on autotrader.co.uk using python
 * Engineered features from the text of each car sale description and carried out exploratory analysis on the extended features.
 * Optimized Linear, Lasso and RandomForestRegressor using GridSearchCV to reach the best model.
@@ -11,7 +11,7 @@
 * **Python Version**: 3.7
 * **Packages**: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 * **For Web Framework Requirements**: `pip install -r requirements.txt`
-* **Scraper Github**:https://github.com/suhailidrees/autotrader_scraper
+* **Scraper Github**: https://github.com/suhailidrees/autotrader_scraper
 * **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ## Web Scrapping
@@ -27,7 +27,7 @@ With each postings, following features are obtained:
 * Fuel type
 * Web link
 * Mileage
-* Name (posting description)
+* Name (description of the post)
 * Owner (number of previous owners)
 * Price
 * Transimission
@@ -52,7 +52,7 @@ The raw data are preprocessed following the steps below:
    * Created columns for the most frequent words mentioned in the description (shown below in the word cloud), after removing relevant words of car makes, models and common stopwords.
  
 ![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/feature_cloud.png "Word Cloud for Feature Engineering")
-   * New columns created for the following features `"sport","se", "amg", "tfsi", "nav", "tsi", "tdi", "premium", "dci", "m sport", "sportback", "edition", "tech", "crdi", "tronic", "cod", "s line", "bluetooth", "leather", "performance", "2dr", "3dr", "4dr", "5dr", "dsg", "speed", "gti", "gtd", "gte"`
+   * New columns created for the following features `"sport", "se", "amg", "tfsi", "nav", "tsi", "tdi", "premium", "dci", "m sport", "sportback", "edition", "tech", "crdi", "tronic", "cod", "s line", "bluetooth", "leather", "performance", "2dr", "3dr", "4dr", "5dr", "dsg", "speed", "gti", "gtd", "gte"`
  * Price
    * Parsed numeric data out of price
    
@@ -61,7 +61,7 @@ Below are a few highlightes by assessing the distribution of the data and the va
 * Correlation between price and variaous features
 
 ![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/heatmap.png "headmap for price correlation")
-* Bar charts of various features
+* Bar charts of various features counts
 
 ![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/body.png "bar chats")
 
@@ -76,14 +76,14 @@ Below are a few highlightes by assessing the distribution of the data and the va
 ![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/body-price.PNG "body prices")
 
 ## Model Building
-First, the categorical variables are tranformed into dummy variables. Also the data was splited into train and tests sets with a test size of 20%.   
+First, the categorical variables are tranformed into dummy variables. Also the data was splited into train and test set with a test size of 20%.   
 
-Three different models are built and evaluated using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
+Three different models are built and evaluated using Mean Absolute Error. MAE was chosen as the main evaluation metric because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
 
 Three different models:
 *	**Multiple Linear Regression** – Baseline for the model
 *	**Lasso Regression** – Because of the sparse data from the many categorical variables, thus a normalized regression like lasso would be effective.
-*	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
+*	**Random Forest** – Again, with the sparsity associated with the data, this would be a good fit. 
 
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test set, marginally. 
@@ -92,7 +92,7 @@ The Random Forest model far outperformed the other approaches on the test set, m
 *	**Linear Regression**: MAE = 1154
 
 The feature importance of the Random Forest Regressor is printed below:
-![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/feature-importantce.png "feature-importantce")
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/feature-importance.png "feature-importantce")
 
 ## Productionization 
-In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a car sale postings and returns an estimated resale price. 
+In this step, a flask API endpoint was built which was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a car sale postings and returns an estimated resale price. 
