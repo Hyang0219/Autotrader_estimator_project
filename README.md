@@ -67,13 +67,13 @@ Below are a few highlightes by assessing the distribution of the data and the va
 
 * Year-on-year prices of different car makes
 
-![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/make-year.png "make-year prices")
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/make-year.PNG "make-year prices")
 * Price comparison between different types of fuel and transimission
 
-![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/fuel-transimission.png "fuel-transimission prices")
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/fuel-transimission.PNG "fuel-transimission prices")
 * Price comparision between different body types
 
-![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/body-price.png "body prices")
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/body-price.PNG "body prices")
 
 ## Model Building
 First, the categorical variables are tranformed into dummy variables. Also the data was splited into train and tests sets with a test size of 20%.   
