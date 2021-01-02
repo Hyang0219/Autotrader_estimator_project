@@ -18,7 +18,8 @@
 Tweaked the web scraper github repo (above) to scrape 1233 car sale postings from autotrader.co.uk at below settings:
 * 10 miles range from my home address
 * Year 2017 to 2020
-* Chosen car makes out of my own interest: Audi, BMW, Lexus, Mazda, Fiat, Hyundai, VW, Merceceds, Nissan
+
+Chosen car makes out of my own interest: Audi, BMW, Lexus, Mazda, Fiat, Hyundai, VW, Merceceds, Nissan
 With each postings, following features are obtained:
 * BHP (brake horse power)
 * ULEZ (Ultra Low Emission Zone - exempt or not)
@@ -48,8 +49,50 @@ The raw data are preprocessed following the steps below:
    * For missing values, extract relevant information from name columns if available
    * For remaining missing values, use the median value of the same car make and model
  * Different unique features
-   * Created columns for the most frequent words mentioned in the description, after removing relevant words of car makes, models and stopwords, `"sport","se", "amg", "tfsi", "nav", "tsi", "tdi", "premium", "dci", "m sport", "sportback", "edition", "tech", "crdi", "tronic", "cod", "s line", "bluetooth", "leather", "performance", "2dr", "3dr", "4dr", "5dr", "dsg", "speed", "gti", "gtd", "gte"`
+   * Created columns for the most frequent words mentioned in the description (shown below in the word cloud), after removing relevant words of car makes, models and common stopwords.
+ 
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/feature_cloud.png "Word Cloud for Feature Engineering")
+   * New columns created for the following features `"sport","se", "amg", "tfsi", "nav", "tsi", "tdi", "premium", "dci", "m sport", "sportback", "edition", "tech", "crdi", "tronic", "cod", "s line", "bluetooth", "leather", "performance", "2dr", "3dr", "4dr", "5dr", "dsg", "speed", "gti", "gtd", "gte"`
  * Price
    * Parsed numeric data out of price
    
 ## EDA
+Below are a few highlightes by assessing the distribution of the data and the value counts for the various categorical data:
+* Correlation between price and variaous features
+
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/heatmap.png "headmap for price correlation")
+* Bar charts of various features
+
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/body.png "bar chats")
+
+* Year-on-year prices of different car makes
+
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/make-year.png "make-year prices")
+* Price comparison between different types of fuel and transimission
+
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/fuel-transimission.png "fuel-transimission prices")
+* Price comparision between different body types
+
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/body-price.png "body prices")
+
+## Model Building
+First, the categorical variables are tranformed into dummy variables. Also the data was splited into train and tests sets with a test size of 20%.   
+
+Three different models are built and evaluated using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
+
+Three different models:
+*	**Multiple Linear Regression** – Baseline for the model
+*	**Lasso Regression** – Because of the sparse data from the many categorical variables, thus a normalized regression like lasso would be effective.
+*	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
+
+## Model performance
+The Random Forest model far outperformed the other approaches on the test set, marginally. 
+*	**Random Forest** : MAE = 1042
+*	**Lasso Regression**: MAE = 1148
+*	**Linear Regression**: MAE = 1154
+
+The feature importance of the Random Forest Regressor is printed below:
+![alt text](https://github.com/Hyang0219/Autotrader_estimator_project/blob/main/Images/feature-importantce.png "feature-importantce")
+
+## Productionization 
+In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a car sale postings and returns an estimated resale price. 
